@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Website tĩnh ôn thi kiến thức lái xe California bằng tiếng Việt, theo chương, thi thử và lặp lại ngắt quãng.">
+  <meta name="theme-color" content="#17324d">
+  <title>Ôn thi DMV California bằng tiếng Việt</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Bỏ qua điều hướng</a>
+  <div class="app-shell">
+    <aside class="sidebar" id="sidebar" aria-label="Điều hướng chính">
+      <div class="brand">
+        <div class="brand-mark" aria-hidden="true">CA</div>
+        <div>
+          <strong>DMV California</strong>
+          <span>Ôn thi tiếng Việt</span>
+        </div>
+      </div>
+      <nav class="main-nav" id="mainNav">
+        <button data-route="dashboard" class="nav-item active"><span class="nav-icon">01</span><span>Tổng quan</span></button>
+        <button data-route="chapters" class="nav-item"><span class="nav-icon">02</span><span>Học theo chương</span></button>
+        <button data-route="practice" class="nav-item"><span class="nav-icon">03</span><span>Luyện tập</span></button>
+        <button data-route="review" class="nav-item"><span class="nav-icon">04</span><span>Ôn đến hạn</span><span class="nav-count" id="dueNavCount">0</span></button>
+        <button data-route="exam" class="nav-item"><span class="nav-icon">05</span><span>Thi mô phỏng</span></button>
+        <button data-route="stats" class="nav-item"><span class="nav-icon">06</span><span>Tiến độ</span></button>
+        <button data-route="sources" class="nav-item"><span class="nav-icon">07</span><span>Nguồn và hiệu chỉnh</span></button>
+      </nav>
+      <div class="sidebar-footer">
+        <div class="accuracy-chip"><span></span> Đối chiếu 22/07/2026</div>
+        <p>Không phải website chính thức của DMV.</p>
+      </div>
+    </aside>
+
+    <div class="page-column">
+      <header class="topbar">
+        <button class="mobile-menu" id="mobileMenu" aria-label="Mở menu" aria-expanded="false">Menu</button>
+        <div class="topbar-title" id="topbarTitle">Tổng quan</div>
+        <div class="topbar-actions">
+          <button class="icon-button" id="globalSearchButton" aria-label="Tìm kiến thức">Tìm kiếm</button>
+          <button class="profile-progress" id="profileProgress" data-route="stats" aria-label="Xem tiến độ">
+            <span id="profilePercent">0%</span>
+            <small>đã học</small>
+          </button>
+        </div>
+      </header>
+      <main id="main" tabindex="-1">
+        <noscript>Website này cần JavaScript để lưu tiến độ, tạo bài luyện và thi mô phỏng.</noscript>
+        <div class="loading-card">Đang nạp bộ học…</div>
+      </main>
+    </div>
+  </div>
+
+  <div class="search-overlay" id="searchOverlay" hidden>
+    <div class="search-dialog" role="dialog" aria-modal="true" aria-labelledby="searchTitle">
+      <div class="dialog-head">
+        <div>
+          <p class="eyebrow">Tìm toàn bộ bộ học</p>
+          <h2 id="searchTitle">Tìm kiến thức hoặc câu hỏi</h2>
+        </div>
+        <button class="icon-button" id="closeSearch" aria-label="Đóng tìm kiếm">Đóng</button>
+      </div>
+      <label class="search-box">
+        <span class="sr-only">Từ khóa</span>
+        <input id="globalSearchInput" type="search" autocomplete="off" placeholder="Ví dụ: 3 giây, đèn đỏ, SR 1, xe buýt trường học">
+      </label>
+      <div id="globalSearchResults" class="search-results"></div>
+    </div>
+  </div>
+
+  <div class="toast-region" id="toastRegion" aria-live="polite"></div>
+  <input type="file" id="importProgressInput" accept="application/json" hidden>
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,77 @@
+{
+  "title": "Tổng quan | Ôn thi DMV California",
+  "hash": "#dashboard",
+  "mainTextStart": "BỘ HỌC OFFLINE, ĐỐI CHIẾU NGUỒN DMV\n\nHọc hết sổ tay, nhớ đúng luật, vào thi không bị bất ngờ.\n\n252 thẻ kiến thức trọng tâm, 261 câu hỏi viết mới, toàn văn theo từng trang, thi mô phỏng và lịch ôn lặp lại ngắt quãng.\n\nBắt đầu luyện tập\nLàm đề mô phỏng\n0%\nđộ phủ câu hỏi\n0\ncâu đến hạn ôn\n0\nngày học liên tiếp\nĐã gặp\n0/261\nMục tiêu là gặp toàn bộ ngân hàng ít nhất một lần.\nĐộ chính xác\n0%\n0 lượt trả lời đã lưu.\nĐã nắm vững\n0\nCâu được nhớ tốt qua nhiều lần ôn.\nĐiểm thi gần nhất\nChưa thi\nLàm một đề để ",
+  "chapterCards": 7,
+  "navItems": 7,
+  "dataCounts": {
+    "chapters": 15,
+    "facts": 252,
+    "questions": 261
+  },
+  "homeHasCoreLabels": [
+    {
+      "label": "252 thẻ kiến thức",
+      "found": true
+    },
+    {
+      "label": "261 câu hỏi",
+      "found": true
+    },
+    {
+      "label": "Bắt đầu luyện",
+      "found": true
+    },
+    {
+      "label": "Làm đề mô phỏng",
+      "found": true
+    }
+  ],
+  "chapter7Nav": true,
+  "chapter7Tabs": [
+    "Facts trọng tâm (44)",
+    "Toàn văn theo trang",
+    "Câu hỏi (50)",
+    "Hình (3)"
+  ],
+  "chapter7Facts": 44,
+  "chapter7SourcePages": 24,
+  "chapter7QuestionRows": 50,
+  "chapter7Images": 3,
+  "searchResults3Seconds": 8,
+  "practiceNav": true,
+  "practiceModes": 6,
+  "practiceChapters": 15,
+  "practiceChoices": 3,
+  "practiceQuestionSourceVisible": true,
+  "ratingButtons": 4,
+  "feedbackBoxRendered": true,
+  "nextPracticeExists": true,
+  "progressSavedOrCaught": "0%",
+  "examNav": true,
+  "examConfigControls": {
+    "chapters": 15,
+    "lengths": 4,
+    "presets": 21
+  },
+  "examChoices": 3,
+  "examPalette": 10,
+  "examTimerText": "00:00",
+  "examFlagged": true,
+  "examSubmitButton": true,
+  "examResultRendered": true,
+  "examResultText": "KẾT QUẢ ĐỀ MÔ PHỎNG\n\n10%\nChưa đạt mốc 80%\n\n1/10 câu đúng, thời gian 0 phút 0 giây. Ôn lại câu sai rồi làm đề khác.\n\nLàm đề khác\nLuyện câu sai\nXem tiến độ\nĐúng\n1\n9 câu sai hoặc bỏ trống.\nMốc đạt\n8/10\nDMV công bố điểm đạt 80%.\nThời gian\n0:00\nKhông có đồng hồ đếm ngược trong mô phỏng này.\nCâu cần ôn\n9\nĐã tự đưa vào lịch ôn sớm.\n\nXEM LẠI TOÀN BỘ\n\nĐáp án và giải thích\n1. Sau khi dừng hẳn ở đèn đỏ, khi nào có thể rẽ phải?\nBạn chọn: Khi không có biển cấm, không có mũi tên đỏ và đã nhường đường\n\nRẽ phải đèn đỏ cần dừng hẳn, nhường và không bị cấm. · Nguồn: trang 18.\n\n2. Khi đèn xanh nhưng giao lộ đang bị chặn, bạn nên làm gì?\nBạn chọn: Bỏ trống\nĐáp án đúng: Chờ cho đến khi có đủ chỗ để đi qua hoàn t",
+  "sourcesNav": true,
+  "sourcesHas3SecondCorrection": true,
+  "sourcesHasSeniorDiscrepancy": true,
+  "sourcesHasChildSeatCorrection": true,
+  "packagedPdfLink": "assets/so-tay-dmv-california-tieng-viet-2025.pdf",
+  "mobileMenuVisible": true,
+  "mobileWidths": {
+    "scroll": 390,
+    "client": 390
+  },
+  "runtimeErrors": [],
+  "console": [],
+  "status": "PASS"
+}

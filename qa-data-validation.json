@@ -1,0 +1,54 @@
+{
+  "metaCounts": {
+    "chapters": 15,
+    "facts": 252,
+    "questions": 261
+  },
+  "questionCounts": {
+    "1": 8,
+    "2": 20,
+    "3": 22,
+    "4": 8,
+    "5": 22,
+    "6": 41,
+    "7": 50,
+    "8": 35,
+    "9": 13,
+    "10": 12,
+    "11": 5,
+    "12": 7,
+    "13": 8,
+    "14": 6,
+    "15": 4
+  },
+  "factCounts": {
+    "1": 9,
+    "2": 19,
+    "3": 22,
+    "4": 8,
+    "5": 23,
+    "6": 42,
+    "7": 44,
+    "8": 28,
+    "9": 13,
+    "10": 11,
+    "11": 5,
+    "12": 7,
+    "13": 9,
+    "14": 8,
+    "15": 4
+  },
+  "embeddedSourcePages": 86,
+  "uniqueEmbeddedPdfPages": 86,
+  "questionImagesReferenced": 14,
+  "chapterImagesReferenced": 4,
+  "uniqueLocalImagesReferenced": 13,
+  "packagedPdfPresent": true,
+  "coreFilesPresent": true,
+  "errors": [],
+  "warnings": [
+    "repeated image recognition prompt by design: ['q7_010', 'q7_011', 'q7_012']",
+    "repeated image recognition prompt by design: ['q7_013', 'q7_014', 'q7_015', 'q7_016', 'q7_017', 'q7_018']"
+  ],
+  "status": "PASS"
+}

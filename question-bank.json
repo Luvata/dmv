@@ -1,0 +1,5661 @@
+{
+  "meta": {
+    "title": "Ôn thi DMV California bằng tiếng Việt",
+    "version": "1.0.0",
+    "verifiedDate": "2026-07-22",
+    "handbookEdition": "DL 600 Vietnamese, Revision 6/2025",
+    "handbookPages": 92,
+    "factCount": 252,
+    "questionCount": 261,
+    "passPercent": 80,
+    "license": "Nội dung và hình trích từ California Driver’s Handbook © California DMV 2025, CC BY-NC 4.0. Chỉ dùng phi thương mại cho mục đích học tập.",
+    "disclaimer": "Đây là bộ học độc lập, không phải sản phẩm chính thức của DMV và không chứa đề thi bị đánh cắp hoặc bị rò rỉ. Câu hỏi được viết mới từ nguồn DMV công khai. Bản tiếng Anh chính thức của DMV là nguồn kiểm soát khi bản dịch có khác biệt.",
+    "corrections": [
+      "Khoảng cách theo sau xe mô tô: dùng ít nhất 3 giây trong điều kiện tốt. Bản Việt có một chỗ ghi 4 giây, nhưng bản tiếng Anh chính thức và quy tắc ba giây của DMV ghi 3 giây.",
+      "Tên Phần 12 trong mục lục tiếng Việt bị lặp thành “Lái xe an toàn”. Nội dung thực tế là an toàn người lái, tái kiểm tra và hạn chế giấy phép.",
+      "Luật Slow Down, Move Over năm 2026 đã được thêm vào. Mức 20 mph tại khu trường học chưa áp dụng cho đến ngày 1 tháng 1 năm 2031.",
+      "Hai trang DMV hiện hành nêu thời điểm gửi thông báo gia hạn cho người từ 70 tuổi trở lên khác nhau, khoảng 90 ngày trên sổ tay và khoảng 60 ngày trên trang chuyên biệt. Bộ học không dùng mốc này làm câu chấm điểm.",
+      "Phần ghế trẻ em trên trang sổ tay hiện hành có hai gạch đầu dòng dùng “hoặc” bị chồng lấn. Bộ học theo Vehicle Code §27360, §27363 và hướng dẫn CHP: trẻ dưới 8 tuổi nhìn chung dùng ghế trẻ em ở ghế sau; trẻ dưới 8 đã cao ít nhất 4 feet 9 inch có thể dùng dây an toàn phù hợp."
+    ],
+    "notice": "Câu hỏi được biên soạn mới từ nguồn DMV công khai. Đây không phải câu hỏi rò rỉ hoặc đề thi thật."
+  },
+  "sources": [
+    {
+      "name": "Sổ tay Lái xe California, tiếng Việt, bản 6/2025",
+      "url": "https://www.dmv.ca.gov/portal/file/california-driver-handbook-vietnamese-pdf/",
+      "type": "pdf"
+    },
+    {
+      "name": "California Driver’s Handbook, bản tiếng Anh chính thức",
+      "url": "https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/",
+      "type": "web"
+    },
+    {
+      "name": "DMV Highlights New Laws in 2026",
+      "url": "https://www.dmv.ca.gov/portal/news-and-media/dmv-highlights-new-laws-in-2026/",
+      "type": "web"
+    },
+    {
+      "name": "Prepare for Knowledge and Drive Tests",
+      "url": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/preparing-for-knowledge-and-drive-tests/",
+      "type": "web"
+    },
+    {
+      "name": "Learner’s Permits",
+      "url": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/learners-permits/",
+      "type": "web"
+    },
+    {
+      "name": "Driver’s License Renewal for 70+",
+      "url": "https://www.dmv.ca.gov/portal/senior-drivers/",
+      "type": "web"
+    },
+    {
+      "name": "California Vehicle Code §27360, Child Passenger Restraint",
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=27360.",
+      "type": "law"
+    },
+    {
+      "name": "California Vehicle Code §27363, Child Passenger Restraint Exceptions",
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=27363.",
+      "type": "law"
+    },
+    {
+      "name": "California Highway Patrol, Child Safety Seats",
+      "url": "https://www.chp.ca.gov/programs-services/programs/child-safety-seats",
+      "type": "web"
+    }
+  ],
+  "chapters": [
+    {
+      "id": 1,
+      "title": "Giấy phép lái xe ở California",
+      "pageRange": "1",
+      "factCount": 9,
+      "questionCount": 8
+    },
+    {
+      "id": 2,
+      "title": "Nhận giấy phép học lái và giấy phép lái xe",
+      "pageRange": "2–4",
+      "factCount": 19,
+      "questionCount": 20
+    },
+    {
+      "id": 3,
+      "title": "Quá trình thi và kiểm tra",
+      "pageRange": "5–7",
+      "factCount": 22,
+      "questionCount": 22
+    },
+    {
+      "id": 4,
+      "title": "Thay đổi, thay thế và gia hạn",
+      "pageRange": "8",
+      "factCount": 8,
+      "questionCount": 8
+    },
+    {
+      "id": 5,
+      "title": "Giới thiệu về lái xe",
+      "pageRange": "9–12",
+      "factCount": 23,
+      "questionCount": 22
+    },
+    {
+      "id": 6,
+      "title": "Điều hướng đường đi",
+      "pageRange": "13–32",
+      "factCount": 42,
+      "questionCount": 41
+    },
+    {
+      "id": 7,
+      "title": "Luật và nguyên tắc khi đi đường",
+      "pageRange": "33–56",
+      "factCount": 44,
+      "questionCount": 50
+    },
+    {
+      "id": 8,
+      "title": "Lái xe an toàn",
+      "pageRange": "57–71",
+      "factCount": 28,
+      "questionCount": 35
+    },
+    {
+      "id": 9,
+      "title": "Rượu bia và ma túy",
+      "pageRange": "72–75",
+      "factCount": 13,
+      "questionCount": 13
+    },
+    {
+      "id": 10,
+      "title": "Trách nhiệm tài chính, bảo hiểm và va chạm",
+      "pageRange": "76–78",
+      "factCount": 11,
+      "questionCount": 12
+    },
+    {
+      "id": 11,
+      "title": "Yêu cầu đăng ký phương tiện",
+      "pageRange": "79",
+      "factCount": 5,
+      "questionCount": 5
+    },
+    {
+      "id": 12,
+      "title": "An toàn người lái, tái kiểm tra và hạn chế",
+      "pageRange": "80–81",
+      "factCount": 7,
+      "questionCount": 7
+    },
+    {
+      "id": 13,
+      "title": "Người cao niên và lái xe",
+      "pageRange": "82–83",
+      "factCount": 9,
+      "questionCount": 8
+    },
+    {
+      "id": 14,
+      "title": "Thuật ngữ",
+      "pageRange": "84–86",
+      "factCount": 8,
+      "questionCount": 6
+    },
+    {
+      "id": 15,
+      "title": "Cập nhật luật năm 2026",
+      "pageRange": "Nguồn web DMV 2026",
+      "factCount": 4,
+      "questionCount": 4
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1_001",
+      "chapter": 1,
+      "prompt": "Thông tin dùng để xây dựng bài thi kiến thức và thực hành California chủ yếu đến từ đâu?",
+      "choices": [
+        "Sổ tay Lái xe California",
+        "Tài liệu của hãng xe",
+        "Luật của một tiểu bang bất kỳ"
+      ],
+      "answer": 0,
+      "explanation": "DMV nêu rõ cả hai bài thi dựa trên nội dung trong sổ tay.",
+      "page": "1",
+      "tags": [
+        "bài thi"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Sổ tay Lái xe California",
+      "chapterTitle": "Giấy phép lái xe ở California"
+    },
+    {
+      "id": "q1_002",
+      "chapter": 1,
+      "prompt": "Hầu hết người lái ô tô cá nhân ở California cần hạng giấy phép nào?",
+      "choices": [
+        "Hạng C",
+        "Hạng M chỉ dành cho mô tô",
+        "Hạng A thương mại"
+      ],
+      "answer": 0,
+      "explanation": "Hạng C là hạng phổ biến cho xe cá nhân; phương tiện thương mại và mô tô cần hạng khác.",
+      "page": "1",
+      "tags": [
+        "hạng C"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Hạng C",
+      "chapterTitle": "Giấy phép lái xe ở California"
+    },
+    {
+      "id": "q1_003",
+      "chapter": 1,
+      "prompt": "Từ ngày 7 tháng 5 năm 2025, giấy tờ nào có thể dùng để lên chuyến bay nội địa?",
+      "choices": [
+        "Chỉ giấy đăng ký xe",
+        "REAL ID hoặc giấy tờ liên bang chấp nhận như hộ chiếu",
+        "Bất kỳ thẻ thư viện nào có ảnh"
+      ],
+      "answer": 1,
+      "explanation": "REAL ID không phải lựa chọn duy nhất; hộ chiếu hoặc giấy tờ liên bang được chấp nhận cũng có thể dùng.",
+      "page": "1",
+      "tags": [
+        "REAL ID"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "REAL ID hoặc giấy tờ liên bang chấp nhận như hộ chiếu",
+      "chapterTitle": "Giấy phép lái xe ở California"
+    },
+    {
+      "id": "q1_004",
+      "chapter": 1,
+      "prompt": "Một thẻ ID California thông thường cho phép người sở hữu làm gì?",
+      "choices": [
+        "Lái xe Hạng C mà không cần thi",
+        "Dùng để nhận dạng, không cho phép lái xe",
+        "Lái xe chỉ trong ban ngày"
+      ],
+      "answer": 1,
+      "explanation": "Thẻ ID là giấy tờ nhận dạng, không phải giấy phép lái xe.",
+      "page": "1",
+      "tags": [
+        "thẻ ID"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Dùng để nhận dạng, không cho phép lái xe",
+      "chapterTitle": "Giấy phép lái xe ở California"
+    },
+    {
+      "id": "q1_005",
+      "chapter": 1,
+      "prompt": "Ai có thể đủ điều kiện nhận thẻ ID California?",
+      "choices": [
+        "Chỉ người từ 18 tuổi trở lên",
+        "Người ở mọi lứa tuổi đáp ứng yêu cầu",
+        "Chỉ người đã có bằng lái"
+      ],
+      "answer": 1,
+      "explanation": "Sổ tay nói thẻ ID có thể được cấp cho người đủ điều kiện ở mọi lứa tuổi.",
+      "page": "1",
+      "tags": [
+        "thẻ ID"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Người ở mọi lứa tuổi đáp ứng yêu cầu",
+      "chapterTitle": "Giấy phép lái xe ở California"
+    },
+    {
+      "id": "q1_006",
+      "chapter": 1,
+      "prompt": "California có cấp giấy phép lái xe cho cư dân đủ điều kiện không có giấy tờ nhập cư hay không?",
+      "choices": [
+        "Chỉ khi họ trên 65 tuổi",
+        "Không, trong mọi trường hợp",
+        "Có, tình trạng nhập cư không tự động loại họ khỏi việc xin giấy phép"
+      ],
+      "answer": 2,
+      "explanation": "California có chương trình giấy phép cho cư dân đủ điều kiện bất kể tình trạng nhập cư.",
+      "page": "1",
+      "tags": [
+        "AB 60"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Có, tình trạng nhập cư không tự động loại họ khỏi việc xin giấy phép",
+      "chapterTitle": "Giấy phép lái xe ở California"
+    },
+    {
+      "id": "q1_007",
+      "chapter": 1,
+      "prompt": "Thẻ nào sau đây tự nó KHÔNG chứng minh quyền lái xe?",
+      "choices": [
+        "Thẻ căn cước ID",
+        "Giấy phép lái xe tạm thời còn hiệu lực",
+        "Giấy phép lái xe Hạng C còn hiệu lực"
+      ],
+      "answer": 0,
+      "explanation": "Thẻ ID chỉ xác nhận danh tính.",
+      "page": "1",
+      "tags": [
+        "thẻ ID"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Thẻ căn cước ID",
+      "chapterTitle": "Giấy phép lái xe ở California"
+    },
+    {
+      "id": "q1_008",
+      "chapter": 1,
+      "prompt": "Mục nào thường cần khi xin thẻ ID?",
+      "choices": [
+        "Bằng chứng đã lái 50 giờ",
+        "Giấy chứng nhận đã thi thực hành",
+        "Bằng chứng danh tính và cư trú"
+      ],
+      "answer": 2,
+      "explanation": "Hồ sơ ID tập trung vào danh tính, cư trú và số An sinh Xã hội khi áp dụng.",
+      "page": "1",
+      "tags": [
+        "hồ sơ"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Bằng chứng danh tính và cư trú",
+      "chapterTitle": "Giấy phép lái xe ở California"
+    },
+    {
+      "id": "q2_001",
+      "chapter": 2,
+      "prompt": "Người chưa có bằng lái California hoặc bằng của tiểu bang khác phải làm gì trước khi thi thực hành?",
+      "choices": [
+        "Xin giấy phép học lái",
+        "Chờ đủ 25 tuổi",
+        "Mua xe đứng tên mình"
+      ],
+      "answer": 0,
+      "explanation": "Giấy phép học lái là bước bắt buộc trước bài thi thực hành đối với người chưa có bằng phù hợp.",
+      "page": "2",
+      "tags": [
+        "giấy phép học lái"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Xin giấy phép học lái",
+      "chapterTitle": "Nhận giấy phép học lái và giấy phép lái xe"
+    },
+    {
+      "id": "q2_002",
+      "chapter": 2,
+      "prompt": "Đối với REAL ID, thông thường cần bao nhiêu bằng chứng cư trú tại California?",
+      "choices": [
+        "Một",
+        "Hai",
+        "Bốn"
+      ],
+      "answer": 1,
+      "explanation": "Sổ tay yêu cầu hai bằng chứng cư trú, trừ một số ngoại lệ.",
+      "page": "2",
+      "tags": [
+        "hồ sơ"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Hai",
+      "chapterTitle": "Nhận giấy phép học lái và giấy phép lái xe"
+    },
+    {
+      "id": "q2_003",
+      "chapter": 2,
+      "prompt": "Lệ phí nộp đơn xin giấy phép học lái có được hoàn lại khi trượt thi hay không?",
+      "choices": [
+        "Có, hoàn lại toàn bộ",
+        "Chỉ hoàn lại cho người trên 18 tuổi",
+        "Không, lệ phí không hoàn lại"
+      ],
+      "answer": 2,
+      "explanation": "Lệ phí nộp đơn được nêu là không hoàn lại.",
+      "page": "2",
+      "tags": [
+        "lệ phí"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Không, lệ phí không hoàn lại",
+      "chapterTitle": "Nhận giấy phép học lái và giấy phép lái xe"
+    },
+    {
+      "id": "q2_004",
+      "chapter": 2,
+      "prompt": "Tuổi tối thiểu để người dưới 18 tuổi xin giấy phép học lái là bao nhiêu?",
+      "choices": [
+        "16 tuổi rưỡi",
+        "14 tuổi",
+        "15 tuổi rưỡi"
+      ],
+      "answer": 2,
+      "explanation": "Người dưới 18 tuổi phải ít nhất 15 tuổi rưỡi.",
+      "page": "3",
+      "tags": [
+        "vị thành niên"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "15 tuổi rưỡi",
+      "chapterTitle": "Nhận giấy phép học lái và giấy phép lái xe"
+    },
+    {
+      "id": "q2_005",
+      "chapter": 2,
+      "prompt": "Nếu cha mẹ có quyền giám hộ chung đối với người dưới 18 tuổi, ai phải ký đơn?",
+      "choices": [
+        "Giáo viên dạy lái thay cha mẹ",
+        "Chỉ một người bất kỳ",
+        "Cả hai cha mẹ hoặc người giám hộ"
+      ],
+      "answer": 2,
+      "explanation": "Sổ tay yêu cầu cả hai ký khi có quyền giám hộ chung.",
+      "page": "3",
+      "tags": [
+        "vị thành niên"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Cả hai cha mẹ hoặc người giám hộ",
+      "chapterTitle": "Nhận giấy phép học lái và giấy phép lái xe"
+    },
+    {
+      "id": "q2_006",
+      "chapter": 2,
+      "prompt": "Khi nào người dưới 18 tuổi được bắt đầu dùng giấy phép học lái để thực hành?",
+      "choices": [
+        "Ngay khi nhận giấy phép, dù chưa học với người hướng dẫn",
+        "Sau khi bắt đầu đào tạo sau tay lái và được người hướng dẫn xác nhận",
+        "Chỉ sau khi đủ 18 tuổi"
+      ],
+      "answer": 1,
+      "explanation": "Giấy phép phải được người hướng dẫn xác nhận khi bắt đầu đào tạo sau tay lái.",
+      "page": "3",
+      "tags": [
+        "vị thành niên"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Sau khi bắt đầu đào tạo sau tay lái và được người hướng dẫn xác nhận",
+      "chapterTitle": "Nhận giấy phép học lái và giấy phép lái xe"
+    },
+    {
+      "id": "q2_007",
+      "chapter": 2,
+      "prompt": "Người học lái dưới 18 tuổi phải thực hành với người lái xe ít nhất bao nhiêu tuổi?",
+      "choices": [
+        "18 tuổi",
+        "25 tuổi",
+        "21 tuổi"
+      ],
+      "answer": 1,
+      "explanation": "Người giám sát người học lái vị thành niên phải ít nhất 25 tuổi và có bằng California.",
+      "page": "3",
+      "tags": [
+        "thực hành"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "25 tuổi",
+      "chapterTitle": "Nhận giấy phép học lái và giấy phép lái xe"
+    },
+    {
+      "id": "q2_008",
+      "chapter": 2,
+      "prompt": "Người học lái từ 18 tuổi trở lên có thể thực hành với người có bằng California ít nhất bao nhiêu tuổi?",
+      "choices": [
+        "25 tuổi bắt buộc trong mọi trường hợp",
+        "16 tuổi",
+        "18 tuổi"
+      ],
+      "answer": 2,
+      "explanation": "Đối với người học trưởng thành, người đi cùng phải ít nhất 18 tuổi và đủ gần để kiểm soát xe.",
+      "page": "3",
+      "tags": [
+        "thực hành"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "18 tuổi",
+      "chapterTitle": "Nhận giấy phép học lái và giấy phép lái xe"
+    },
+    {
+      "id": "q2_009",
+      "chapter": 2,
+      "prompt": "Người dưới 18 tuổi phải giữ giấy phép học lái ít nhất bao lâu trước khi thi thực hành, trừ khi đã đủ 18 tuổi?",
+      "choices": [
+        "12 tháng",
+        "30 ngày",
+        "6 tháng"
+      ],
+      "answer": 2,
+      "explanation": "Yêu cầu thông thường là ít nhất 6 tháng.",
+      "page": "3",
+      "tags": [
+        "6 tháng"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "6 tháng",
+      "chapterTitle": "Nhận giấy phép học lái và giấy phép lái xe"
+    },
+    {
+      "id": "q2_010",
+      "chapter": 2,
+      "prompt": "Tổng thời gian thực hành tối thiểu đối với người dưới 18 tuổi là bao nhiêu?",
+      "choices": [
+        "100 giờ",
+        "50 giờ",
+        "20 giờ"
+      ],
+      "answer": 1,
+      "explanation": "Phải có ít nhất 50 giờ thực hành.",
+      "page": "3",
+      "tags": [
+        "50 giờ"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "50 giờ",
+      "chapterTitle": "Nhận giấy phép học lái và giấy phép lái xe"
+    },
+    {
+      "id": "q2_011",
+      "chapter": 2,
+      "prompt": "Trong 50 giờ thực hành của người dưới 18 tuổi, ít nhất bao nhiêu giờ phải lái ban đêm?",
+      "choices": [
+        "10 giờ",
+        "20 giờ",
+        "5 giờ"
+      ],
+      "answer": 0,
+      "explanation": "Có 10 giờ thực hành ban đêm.",
+      "page": "3",
+      "tags": [
+        "10 giờ"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "10 giờ",
+      "chapterTitle": "Nhận giấy phép học lái và giấy phép lái xe"
+    },
+    {
+      "id": "q2_012",
+      "chapter": 2,
+      "prompt": "Trong 12 tháng đầu của giấy phép tạm thời, thời gian nào thường bị cấm lái nếu không có ngoại lệ?",
+      "choices": [
+        "Từ nửa đêm đến 3 giờ sáng",
+        "Từ 9 giờ tối đến 6 giờ sáng",
+        "Từ 11 giờ đêm đến 5 giờ sáng"
+      ],
+      "answer": 2,
+      "explanation": "Hạn chế là 11 giờ đêm đến 5 giờ sáng trong 12 tháng đầu.",
+      "page": "4",
+      "tags": [
+        "hạn chế"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Từ 11 giờ đêm đến 5 giờ sáng",
+      "chapterTitle": "Nhận giấy phép học lái và giấy phép lái xe"
+    },
+    {
+      "id": "q2_013",
+      "chapter": 2,
+      "prompt": "Trong 12 tháng đầu, người lái tạm thời có thể chở hành khách dưới 20 tuổi khi nào?",
+      "choices": [
+        "Chỉ cần hành khách đồng ý",
+        "Khi có phụ huynh, người giám hộ hoặc người có bằng California ít nhất 25 tuổi đi cùng, hoặc có ngoại lệ hợp lệ",
+        "Bất cứ lúc nào nếu chuyến đi dưới 10 dặm"
+      ],
+      "answer": 1,
+      "explanation": "Quy tắc hạn chế hành khách áp dụng trong 12 tháng đầu.",
+      "page": "4",
+      "tags": [
+        "hạn chế"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Khi có phụ huynh, người giám hộ hoặc người có bằng California ít nhất 25 tuổi đi cùng, hoặc có ngoại lệ hợp lệ",
+      "chapterTitle": "Nhận giấy phép học lái và giấy phép lái xe"
+    },
+    {
+      "id": "q2_014",
+      "chapter": 2,
+      "prompt": "Trường hợp nào có thể là ngoại lệ hợp lệ đối với hạn chế lái xe tạm thời?",
+      "choices": [
+        "Muốn luyện lái sau nửa đêm mà không có người lớn",
+        "Nhu cầu y tế có giấy xác nhận phù hợp",
+        "Muốn đi chơi với bạn bè"
+      ],
+      "answer": 1,
+      "explanation": "Ngoại lệ gồm y tế, trường học, việc làm hoặc nhu cầu gia đình với giấy xác nhận.",
+      "page": "4",
+      "tags": [
+        "ngoại lệ"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Nhu cầu y tế có giấy xác nhận phù hợp",
+      "chapterTitle": "Nhận giấy phép học lái và giấy phép lái xe"
+    },
+    {
+      "id": "q2_015",
+      "chapter": 2,
+      "prompt": "Giấy xác nhận cho ngoại lệ đi làm phải do ai ký?",
+      "choices": [
+        "Người sử dụng lao động",
+        "Bất kỳ hành khách nào",
+        "Một người bạn cùng lớp"
+      ],
+      "answer": 0,
+      "explanation": "Ngoại lệ việc làm cần giấy xác nhận của người sử dụng lao động.",
+      "page": "4",
+      "tags": [
+        "ngoại lệ"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Người sử dụng lao động",
+      "chapterTitle": "Nhận giấy phép học lái và giấy phép lái xe"
+    },
+    {
+      "id": "q2_016",
+      "chapter": 2,
+      "prompt": "Cha mẹ hoặc người giám hộ có thể yêu cầu DMV làm gì với giấy phép của thanh thiếu niên?",
+      "choices": [
+        "Hủy giấy phép",
+        "Miễn mọi hạn chế trong 12 tháng đầu",
+        "Tự động nâng lên Hạng A"
+      ],
+      "answer": 0,
+      "explanation": "Họ có thể nộp mẫu yêu cầu hủy hoặc giao lại giấy phép.",
+      "page": "4",
+      "tags": [
+        "vị thành niên"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Hủy giấy phép",
+      "chapterTitle": "Nhận giấy phép học lái và giấy phép lái xe"
+    },
+    {
+      "id": "q2_017",
+      "chapter": 2,
+      "prompt": "Một người 17 tuổi 8 tháng chưa học DE hoặc DT có thể làm gì theo hướng dẫn DMV hiện hành?",
+      "choices": [
+        "Có thể xin giấy phép học lái nhưng phải chờ đủ 18 tuổi mới thi thực hành",
+        "Không thể xin bất kỳ giấy phép nào",
+        "Có thể thi thực hành ngay trong ngày"
+      ],
+      "answer": 0,
+      "explanation": "Người trên 17 tuổi rưỡi nhưng dưới 18 có thể xin permit không cần chứng chỉ, nhưng chưa được thi thực hành trước 18 tuổi.",
+      "page": "3",
+      "tags": [
+        "cập nhật web"
+      ],
+      "difficulty": 3,
+      "image": null,
+      "sourceType": "dmv_web",
+      "correctChoice": "Có thể xin giấy phép học lái nhưng phải chờ đủ 18 tuổi mới thi thực hành",
+      "chapterTitle": "Nhận giấy phép học lái và giấy phép lái xe"
+    },
+    {
+      "id": "q2_018",
+      "chapter": 2,
+      "prompt": "Đơn xin bằng lái hoặc thẻ ID và lệ phí thường có hiệu lực bao lâu?",
+      "choices": [
+        "12 tháng",
+        "3 tháng",
+        "5 năm"
+      ],
+      "answer": 0,
+      "explanation": "Trang DMV hiện hành nêu đơn và lệ phí có hiệu lực 12 tháng.",
+      "page": "3",
+      "tags": [
+        "cập nhật web"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "dmv_web",
+      "correctChoice": "12 tháng",
+      "chapterTitle": "Nhận giấy phép học lái và giấy phép lái xe"
+    },
+    {
+      "id": "q2_019",
+      "chapter": 2,
+      "prompt": "Người hướng dẫn tại trường dạy lái được DMV cấp phép phải mang theo gì?",
+      "choices": [
+        "Thẻ ID người hướng dẫn",
+        "Chỉ giấy đăng ký xe cá nhân",
+        "Bản sao hộ chiếu của học viên"
+      ],
+      "answer": 0,
+      "explanation": "Học viên có thể yêu cầu xem thẻ ID người hướng dẫn.",
+      "page": "3",
+      "tags": [
+        "trường dạy lái"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Thẻ ID người hướng dẫn",
+      "chapterTitle": "Nhận giấy phép học lái và giấy phép lái xe"
+    },
+    {
+      "id": "q2_020",
+      "chapter": 2,
+      "prompt": "Để nhận giấy phép học lái, người nộp đơn phải vượt qua kiểm tra nào ngoài kiến thức?",
+      "choices": [
+        "Kiểm tra thính giác bắt buộc cho mọi người",
+        "Kiểm tra thị lực",
+        "Kiểm tra cơ khí xe"
+      ],
+      "answer": 1,
+      "explanation": "Quy trình gồm bài thi kiến thức và kiểm tra thị lực.",
+      "page": "2",
+      "tags": [
+        "giấy phép học lái"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Kiểm tra thị lực",
+      "chapterTitle": "Nhận giấy phép học lái và giấy phép lái xe"
+    },
+    {
+      "id": "q3_001",
+      "chapter": 3,
+      "prompt": "Người nộp đơn được thi kiến thức bao nhiêu lần trước khi phải nộp đơn lại?",
+      "choices": [
+        "Ba lần",
+        "Không giới hạn trong cùng một đơn",
+        "Hai lần"
+      ],
+      "answer": 0,
+      "explanation": "DMV cho ba lần trước khi phải đăng ký lại.",
+      "page": "5",
+      "tags": [
+        "ba lần"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Ba lần",
+      "chapterTitle": "Quá trình thi và kiểm tra"
+    },
+    {
+      "id": "q3_002",
+      "chapter": 3,
+      "prompt": "Người dưới 18 tuổi trượt bài thi kiến thức phải chờ bao lâu để thi lại?",
+      "choices": [
+        "7 ngày, không tính ngày trượt",
+        "14 ngày, không tính ngày trượt",
+        "24 giờ"
+      ],
+      "answer": 0,
+      "explanation": "Thời gian chờ thi lại kiến thức của người dưới 18 là 7 ngày.",
+      "page": "5",
+      "tags": [
+        "7 ngày"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "7 ngày, không tính ngày trượt",
+      "chapterTitle": "Quá trình thi và kiểm tra"
+    },
+    {
+      "id": "q3_003",
+      "chapter": 3,
+      "prompt": "Trong bài thi kiến thức, người thi có được mở Sổ tay Lái xe California hay không?",
+      "choices": [
+        "Có, nhưng không được dùng điện thoại",
+        "Có, nếu chỉ xem một lần",
+        "Không"
+      ],
+      "answer": 2,
+      "explanation": "Sổ tay và điện thoại đều là thiết bị hỗ trợ bị cấm trong bài thi.",
+      "page": "5",
+      "tags": [
+        "cấm"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Không",
+      "chapterTitle": "Quá trình thi và kiểm tra"
+    },
+    {
+      "id": "q3_004",
+      "chapter": 3,
+      "prompt": "Nếu kiểm tra thị lực bằng kính, giấy phép có thể ghi điều gì?",
+      "choices": [
+        "Miễn thi thực hành",
+        "Hạn chế yêu cầu dùng kính điều chỉnh",
+        "Chỉ được lái ban ngày trong mọi trường hợp"
+      ],
+      "answer": 1,
+      "explanation": "DMV có thể ghi hạn chế kính điều chỉnh.",
+      "page": "5",
+      "tags": [
+        "thị lực"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Hạn chế yêu cầu dùng kính điều chỉnh",
+      "chapterTitle": "Quá trình thi và kiểm tra"
+    },
+    {
+      "id": "q3_005",
+      "chapter": 3,
+      "prompt": "Mẫu DL 62 liên quan đến vấn đề nào?",
+      "choices": [
+        "Báo cáo va chạm",
+        "Báo cáo kiểm tra thị lực",
+        "Đăng ký xe ngoài tiểu bang"
+      ],
+      "answer": 1,
+      "explanation": "DL 62 là Report of Vision Examination.",
+      "page": "5",
+      "tags": [
+        "thị lực"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Báo cáo kiểm tra thị lực",
+      "chapterTitle": "Quá trình thi và kiểm tra"
+    },
+    {
+      "id": "q3_006",
+      "chapter": 3,
+      "prompt": "Ai phải đi cùng người thi thực hành chưa có bằng lái đầy đủ?",
+      "choices": [
+        "Bất kỳ người nào trên 16 tuổi",
+        "Không cần ai đi cùng đến DMV",
+        "Người có bằng California ít nhất 18 tuổi, hoặc 25 tuổi nếu người thi là vị thành niên"
+      ],
+      "answer": 2,
+      "explanation": "Người đi cùng phải đáp ứng tuổi và giấy phép theo quy định.",
+      "page": "6",
+      "tags": [
+        "thi thực hành"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Người có bằng California ít nhất 18 tuổi, hoặc 25 tuổi nếu người thi là vị thành niên",
+      "chapterTitle": "Quá trình thi và kiểm tra"
+    },
+    {
+      "id": "q3_007",
+      "chapter": 3,
+      "prompt": "Khi dùng xe thuê để thi, điều nào đúng?",
+      "choices": [
+        "Chỉ cần người thuê xe ngồi ở ghế sau",
+        "Xe thuê luôn bị cấm",
+        "Tên người thi phải có trong hợp đồng và hợp đồng không được loại trừ việc thi lái"
+      ],
+      "answer": 2,
+      "explanation": "Cả tên trong hợp đồng và quyền dùng xe để thi đều phải hợp lệ.",
+      "page": "6",
+      "tags": [
+        "xe thuê"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Tên người thi phải có trong hợp đồng và hợp đồng không được loại trừ việc thi lái",
+      "chapterTitle": "Quá trình thi và kiểm tra"
+    },
+    {
+      "id": "q3_008",
+      "chapter": 3,
+      "prompt": "Người dưới 18 tuổi trượt thi thực hành phải chờ bao lâu để thi lại?",
+      "choices": [
+        "30 ngày",
+        "7 ngày",
+        "14 ngày, không tính ngày trượt"
+      ],
+      "answer": 2,
+      "explanation": "Thời gian chờ thi lại thực hành là 14 ngày.",
+      "page": "6",
+      "tags": [
+        "14 ngày"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "14 ngày, không tính ngày trượt",
+      "chapterTitle": "Quá trình thi và kiểm tra"
+    },
+    {
+      "id": "q3_009",
+      "chapter": 3,
+      "prompt": "Xe dùng thi thực hành phải có ít nhất bao nhiêu gương chiếu hậu?",
+      "choices": [
+        "Hai, trong đó một ở bên trái",
+        "Ba gương bắt buộc",
+        "Một gương giữa là đủ"
+      ],
+      "answer": 0,
+      "explanation": "Yêu cầu tối thiểu là hai gương, một ở bên trái.",
+      "page": "6",
+      "tags": [
+        "gương"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Hai, trong đó một ở bên trái",
+      "chapterTitle": "Quá trình thi và kiểm tra"
+    },
+    {
+      "id": "q3_010",
+      "chapter": 3,
+      "prompt": "Độ sâu gai lốp tối thiểu của xe thi là bao nhiêu?",
+      "choices": [
+        "1/32 inch đồng đều",
+        "Không có yêu cầu",
+        "1/8 inch"
+      ],
+      "answer": 0,
+      "explanation": "Sổ tay nêu ít nhất 1/32 inch.",
+      "page": "6",
+      "tags": [
+        "lốp"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "1/32 inch đồng đều",
+      "chapterTitle": "Quá trình thi và kiểm tra"
+    },
+    {
+      "id": "q3_011",
+      "chapter": 3,
+      "prompt": "Có được dùng lốp dự phòng trong bài thi thực hành hay không?",
+      "choices": [
+        "Chỉ được nếu trời khô",
+        "Không",
+        "Có, nếu chạy chậm"
+      ],
+      "answer": 1,
+      "explanation": "Lốp dự phòng không được chấp nhận trong bài thi.",
+      "page": "6",
+      "tags": [
+        "lốp"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Không",
+      "chapterTitle": "Quá trình thi và kiểm tra"
+    },
+    {
+      "id": "q3_012",
+      "chapter": 3,
+      "prompt": "Còi của xe thi phải nghe được từ khoảng cách tối thiểu nào?",
+      "choices": [
+        "500 feet",
+        "200 feet",
+        "50 feet"
+      ],
+      "answer": 1,
+      "explanation": "Còi phải nghe được ít nhất từ 200 feet.",
+      "page": "6",
+      "tags": [
+        "còi"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "200 feet",
+      "chapterTitle": "Quá trình thi và kiểm tra"
+    },
+    {
+      "id": "q3_013",
+      "chapter": 3,
+      "prompt": "Nếu xe không đáp ứng yêu cầu an toàn trước bài thi, điều gì thường xảy ra?",
+      "choices": [
+        "Người thi tự ký giấy miễn trách nhiệm rồi thi",
+        "Bài thi được lên lịch lại",
+        "Giám khảo bỏ qua mọi lỗi"
+      ],
+      "answer": 1,
+      "explanation": "DMV sẽ lên lịch lại nếu xe không đạt yêu cầu.",
+      "page": "6",
+      "tags": [
+        "xe thi"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Bài thi được lên lịch lại",
+      "chapterTitle": "Quá trình thi và kiểm tra"
+    },
+    {
+      "id": "q3_014",
+      "chapter": 3,
+      "prompt": "Thông dịch viên có được ngồi trong xe suốt bài thi thực hành hay không?",
+      "choices": [
+        "Có, luôn được phép",
+        "Chỉ được nếu ngồi ghế sau",
+        "Không, họ chỉ có thể hỗ trợ phần kiểm tra điều khiển trước khi lái"
+      ],
+      "answer": 2,
+      "explanation": "Chỉ giám khảo thường được đi cùng trong bài thi.",
+      "page": "7",
+      "tags": [
+        "thông dịch viên"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Không, họ chỉ có thể hỗ trợ phần kiểm tra điều khiển trước khi lái",
+      "chapterTitle": "Quá trình thi và kiểm tra"
+    },
+    {
+      "id": "q3_015",
+      "chapter": 3,
+      "prompt": "Thiết bị ghi hình trong bài thi thực hành được xử lý thế nào?",
+      "choices": [
+        "Được phép ghi nếu không đăng mạng",
+        "Phải tắt, vô hiệu hóa hoặc che để không ghi hình hay âm thanh",
+        "Bắt buộc phải bật để DMV xem lại"
+      ],
+      "answer": 1,
+      "explanation": "Ghi âm và ghi hình trong bài thi bị cấm.",
+      "page": "7",
+      "tags": [
+        "cấm"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Phải tắt, vô hiệu hóa hoặc che để không ghi hình hay âm thanh",
+      "chapterTitle": "Quá trình thi và kiểm tra"
+    },
+    {
+      "id": "q3_016",
+      "chapter": 3,
+      "prompt": "Hệ thống đỗ xe song song tự động có được dùng trong bài thi không?",
+      "choices": [
+        "Có, vì là tính năng an toàn",
+        "Không",
+        "Chỉ khi giám khảo không nhìn thấy"
+      ],
+      "answer": 1,
+      "explanation": "Bài thi đánh giá khả năng của người lái, không phải hệ thống tự động.",
+      "page": "7",
+      "tags": [
+        "ADAS"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Không",
+      "chapterTitle": "Quá trình thi và kiểm tra"
+    },
+    {
+      "id": "q3_017",
+      "chapter": 3,
+      "prompt": "Camera lùi trong bài thi thực hành được dùng như thế nào?",
+      "choices": [
+        "Có thể dùng, nhưng không thay thế việc nhìn trực tiếp và kiểm tra điểm mù",
+        "Bị cấm tuyệt đối",
+        "Có thể thay hoàn toàn việc quay đầu nhìn"
+      ],
+      "answer": 0,
+      "explanation": "Công nghệ an toàn hỗ trợ được dùng nhưng không thay quan sát trực tiếp.",
+      "page": "7",
+      "tags": [
+        "ADAS"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Có thể dùng, nhưng không thay thế việc nhìn trực tiếp và kiểm tra điểm mù",
+      "chapterTitle": "Quá trình thi và kiểm tra"
+    },
+    {
+      "id": "q3_018",
+      "chapter": 3,
+      "prompt": "Hai đèn thắng của xe thi phải ở trạng thái nào?",
+      "choices": [
+        "Chỉ một bên hoạt động là đủ",
+        "Cả bên phải và bên trái đều hoạt động",
+        "Không cần nếu thi ban ngày"
+      ],
+      "answer": 1,
+      "explanation": "Cả hai đèn thắng phải hoạt động.",
+      "page": "6",
+      "tags": [
+        "đèn thắng"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Cả bên phải và bên trái đều hoạt động",
+      "chapterTitle": "Quá trình thi và kiểm tra"
+    },
+    {
+      "id": "q3_019",
+      "chapter": 3,
+      "prompt": "Khoảng trống tối thiểu dưới bàn đạp thắng chân khi nhấn là bao nhiêu?",
+      "choices": [
+        "1/4 inch",
+        "1 inch",
+        "3 inch"
+      ],
+      "answer": 1,
+      "explanation": "Phải còn ít nhất một inch đến tấm lót sàn.",
+      "page": "6",
+      "tags": [
+        "thắng"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "1 inch",
+      "chapterTitle": "Quá trình thi và kiểm tra"
+    },
+    {
+      "id": "q3_020",
+      "chapter": 3,
+      "prompt": "Tất cả dây an toàn trong xe thi phải như thế nào?",
+      "choices": [
+        "Chỉ dây của người lái cần hoạt động",
+        "Hoạt động bình thường và được người trong xe sử dụng",
+        "Có thể tháo nếu có túi khí"
+      ],
+      "answer": 1,
+      "explanation": "Yêu cầu áp dụng cho tất cả dây an toàn và người trong xe.",
+      "page": "6",
+      "tags": [
+        "dây an toàn"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Hoạt động bình thường và được người trong xe sử dụng",
+      "chapterTitle": "Quá trình thi và kiểm tra"
+    },
+    {
+      "id": "q3_021",
+      "chapter": 3,
+      "prompt": "Một số người gia hạn giấy phép có thể chọn phương án nào thay bài thi kiến thức?",
+      "choices": [
+        "Khóa eLearning đủ điều kiện",
+        "Thi thực hành đường cao tốc bắt buộc",
+        "Chỉ nộp ảnh mới, không có điều kiện nào khác"
+      ],
+      "answer": 0,
+      "explanation": "DMV có tùy chọn eLearning cho một số trường hợp gia hạn.",
+      "page": "5",
+      "tags": [
+        "eLearning"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Khóa eLearning đủ điều kiện",
+      "chapterTitle": "Quá trình thi và kiểm tra"
+    },
+    {
+      "id": "q3_022",
+      "chapter": 3,
+      "prompt": "Trong bài thi thực hành, giám khảo có thể đưa ra hai chỉ dẫn liên tiếp để làm gì?",
+      "choices": [
+        "Đánh giá khả năng hiểu và thực hiện đúng nhiều chỉ dẫn",
+        "Cố tình đánh lừa người thi",
+        "Kiểm tra khả năng ghi chép khi lái"
+      ],
+      "answer": 0,
+      "explanation": "Ví dụ có thể yêu cầu rẽ ở đường tiếp theo rồi rẽ tiếp tại giao lộ.",
+      "page": "5",
+      "tags": [
+        "thi thực hành"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Đánh giá khả năng hiểu và thực hiện đúng nhiều chỉ dẫn",
+      "chapterTitle": "Quá trình thi và kiểm tra"
+    },
+    {
+      "id": "q4_001",
+      "chapter": 4,
+      "prompt": "Sau khi chuyển nhà, phải báo địa chỉ mới cho DMV trong bao lâu?",
+      "choices": [
+        "60 ngày",
+        "10 ngày",
+        "30 ngày"
+      ],
+      "answer": 1,
+      "explanation": "Luật yêu cầu báo trong vòng 10 ngày.",
+      "page": "8",
+      "tags": [
+        "10 ngày"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "10 ngày",
+      "chapterTitle": "Thay đổi, thay thế và gia hạn"
+    },
+    {
+      "id": "q4_002",
+      "chapter": 4,
+      "prompt": "Đổi địa chỉ với DMV có tự động gửi bằng lái mới hay không?",
+      "choices": [
+        "Không",
+        "Chỉ khi đổi trong cùng thành phố",
+        "Có, luôn miễn phí"
+      ],
+      "answer": 0,
+      "explanation": "Có thể yêu cầu thẻ thay thế với khoản phí.",
+      "page": "8",
+      "tags": [
+        "địa chỉ"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Không",
+      "chapterTitle": "Thay đổi, thay thế và gia hạn"
+    },
+    {
+      "id": "q4_003",
+      "chapter": 4,
+      "prompt": "Lái xe với bằng lái hết hạn là gì?",
+      "choices": [
+        "Được phép trong 30 ngày ân hạn",
+        "Vi phạm pháp luật",
+        "Được phép nếu mang hộ chiếu"
+      ],
+      "answer": 1,
+      "explanation": "Sổ tay nói rõ lái xe khi bằng hết hạn là phạm luật.",
+      "page": "8",
+      "tags": [
+        "hết hạn"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Vi phạm pháp luật",
+      "chapterTitle": "Thay đổi, thay thế và gia hạn"
+    },
+    {
+      "id": "q4_004",
+      "chapter": 4,
+      "prompt": "Khi nhận thẻ thay thế, thẻ cũ có còn giá trị không?",
+      "choices": [
+        "Không",
+        "Có, cho đến lần gia hạn sau",
+        "Có, nếu thẻ cũ chưa bị cắt góc"
+      ],
+      "answer": 0,
+      "explanation": "Thẻ cũ mất giá trị ngay khi thẻ thay thế được cấp.",
+      "page": "8",
+      "tags": [
+        "thẻ cũ"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Không",
+      "chapterTitle": "Thay đổi, thay thế và gia hạn"
+    },
+    {
+      "id": "q4_005",
+      "chapter": 4,
+      "prompt": "Nếu tìm thấy thẻ cũ sau khi đã nhận thẻ thay thế, nên làm gì?",
+      "choices": [
+        "Bán lại cho DMV",
+        "Giữ cả hai để dùng luân phiên",
+        "Hủy thẻ cũ"
+      ],
+      "answer": 2,
+      "explanation": "Sổ tay yêu cầu hủy thẻ cũ.",
+      "page": "8",
+      "tags": [
+        "thẻ cũ"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Hủy thẻ cũ",
+      "chapterTitle": "Thay đổi, thay thế và gia hạn"
+    },
+    {
+      "id": "q4_006",
+      "chapter": 4,
+      "prompt": "Người ở ngoài tiểu bang không thể gia hạn có thể xin kéo dài bằng lái thêm bao lâu?",
+      "choices": [
+        "Một năm",
+        "Ba năm",
+        "30 ngày"
+      ],
+      "answer": 0,
+      "explanation": "Có thể xin gia hạn một năm trước khi bằng hết hạn.",
+      "page": "8",
+      "tags": [
+        "ngoài tiểu bang"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Một năm",
+      "chapterTitle": "Thay đổi, thay thế và gia hạn"
+    },
+    {
+      "id": "q4_007",
+      "chapter": 4,
+      "prompt": "Ai không đủ điều kiện dùng thủ tục gia hạn thêm một năm khi đang ngoài tiểu bang?",
+      "choices": [
+        "Người đã đổi địa chỉ đúng hạn",
+        "Người có bằng lái ngắn hạn",
+        "Người có bằng Hạng C thông thường"
+      ],
+      "answer": 1,
+      "explanation": "Bằng ngắn hạn không được gia hạn theo cách này.",
+      "page": "8",
+      "tags": [
+        "ngoài tiểu bang"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Người có bằng lái ngắn hạn",
+      "chapterTitle": "Thay đổi, thay thế và gia hạn"
+    },
+    {
+      "id": "q4_008",
+      "chapter": 4,
+      "prompt": "Người dưới 18 tuổi có thể cần ai ký đơn thay thế hoặc gia hạn?",
+      "choices": [
+        "Người bán xe",
+        "Cha mẹ hoặc người giám hộ",
+        "Chủ nhà"
+      ],
+      "answer": 1,
+      "explanation": "Sổ tay nêu yêu cầu chữ ký của cha mẹ hoặc người giám hộ đối với người vị thành niên.",
+      "page": "8",
+      "tags": [
+        "vị thành niên"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Cha mẹ hoặc người giám hộ",
+      "chapterTitle": "Thay đổi, thay thế và gia hạn"
+    },
+    {
+      "id": "q5_001",
+      "chapter": 5,
+      "prompt": "Đeo tai nghe ở cả hai tai khi lái xe là gì?",
+      "choices": [
+        "Được phép nếu âm lượng thấp",
+        "Bất hợp pháp",
+        "Bắt buộc trên xa lộ"
+      ],
+      "answer": 1,
+      "explanation": "Việc bịt cả hai tai có thể che mất âm thanh cảnh báo.",
+      "page": "9",
+      "tags": [
+        "thính giác"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Bất hợp pháp",
+      "chapterTitle": "Giới thiệu về lái xe"
+    },
+    {
+      "id": "q5_002",
+      "chapter": 5,
+      "prompt": "Mệt mỏi ảnh hưởng đến lái xe như thế nào?",
+      "choices": [
+        "Luôn làm phản ứng nhanh hơn",
+        "Chỉ ảnh hưởng khi lái ban đêm",
+        "Làm tăng thời gian phản ứng và có thể ảnh hưởng thị lực"
+      ],
+      "answer": 2,
+      "explanation": "Buồn ngủ làm giảm khả năng nhận biết và phản ứng.",
+      "page": "9",
+      "tags": [
+        "mệt mỏi"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Làm tăng thời gian phản ứng và có thể ảnh hưởng thị lực",
+      "chapterTitle": "Giới thiệu về lái xe"
+    },
+    {
+      "id": "q5_003",
+      "chapter": 5,
+      "prompt": "Thuốc không kê đơn có thể ảnh hưởng đến lái xe không?",
+      "choices": [
+        "Có",
+        "Không bao giờ",
+        "Chỉ khi dùng cùng cà phê"
+      ],
+      "answer": 0,
+      "explanation": "Cả thuốc kê đơn lẫn không kê đơn có thể gây buồn ngủ hoặc suy giảm.",
+      "page": "9",
+      "tags": [
+        "thuốc"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Có",
+      "chapterTitle": "Giới thiệu về lái xe"
+    },
+    {
+      "id": "q5_004",
+      "chapter": 5,
+      "prompt": "Bác sĩ phải báo cáo một số tình trạng ảnh hưởng lái xe đối với bệnh nhân từ bao nhiêu tuổi?",
+      "choices": [
+        "18 tuổi trở lên",
+        "65 tuổi trở lên",
+        "14 tuổi trở lên"
+      ],
+      "answer": 2,
+      "explanation": "Sổ tay nêu mốc 14 tuổi.",
+      "page": "9",
+      "tags": [
+        "sức khỏe"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "14 tuổi trở lên",
+      "chapterTitle": "Giới thiệu về lái xe"
+    },
+    {
+      "id": "q5_005",
+      "chapter": 5,
+      "prompt": "Vị trí tay khuyến nghị cho kiểu đẩy kéo là gì?",
+      "choices": [
+        "Một tay ở 12 giờ trong mọi tình huống",
+        "9 và 3 giờ hoặc thấp hơn một chút ở 8 và 4 giờ",
+        "10 và 2 giờ bắt buộc"
+      ],
+      "answer": 1,
+      "explanation": "Vị trí thấp hơn giúp kiểm soát và giảm nguy cơ từ túi khí.",
+      "page": "9",
+      "tags": [
+        "vô lăng"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "9 và 3 giờ hoặc thấp hơn một chút ở 8 và 4 giờ",
+      "chapterTitle": "Giới thiệu về lái xe"
+    },
+    {
+      "id": "q5_006",
+      "chapter": 5,
+      "prompt": "Khi nào kiểu bắt chéo tay có thể thích hợp?",
+      "choices": [
+        "Rẽ tốc độ thấp hoặc đỗ xe",
+        "Khi đang nhắn tin",
+        "Lái thẳng ở tốc độ cao trong thời gian dài"
+      ],
+      "answer": 0,
+      "explanation": "Sổ tay nêu rẽ tốc độ thấp, đỗ xe hoặc phục hồi sau trượt.",
+      "page": "10",
+      "tags": [
+        "vô lăng"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Rẽ tốc độ thấp hoặc đỗ xe",
+      "chapterTitle": "Giới thiệu về lái xe"
+    },
+    {
+      "id": "q5_007",
+      "chapter": 5,
+      "prompt": "Khi lùi và cần nhìn phía sau, tay lái một tay nên ở vị trí nào?",
+      "choices": [
+        "3 giờ",
+        "6 giờ",
+        "12 giờ"
+      ],
+      "answer": 2,
+      "explanation": "Đây là một trong hai tình huống có thể cần lái một tay.",
+      "page": "10",
+      "tags": [
+        "lùi xe"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "12 giờ",
+      "chapterTitle": "Giới thiệu về lái xe"
+    },
+    {
+      "id": "q5_008",
+      "chapter": 5,
+      "prompt": "Phải báo hiệu ít nhất bao xa trước khi rẽ?",
+      "choices": [
+        "300 feet",
+        "25 feet",
+        "100 feet"
+      ],
+      "answer": 2,
+      "explanation": "Báo hiệu ít nhất 100 feet trước chỗ rẽ.",
+      "page": "11",
+      "tags": [
+        "100 feet"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "100 feet",
+      "chapterTitle": "Giới thiệu về lái xe"
+    },
+    {
+      "id": "q5_009",
+      "chapter": 5,
+      "prompt": "Trên xa lộ, phải báo hiệu ít nhất bao lâu trước khi đổi làn?",
+      "choices": [
+        "5 giây",
+        "10 giây",
+        "1 giây"
+      ],
+      "answer": 0,
+      "explanation": "Sổ tay nêu tối thiểu 5 giây.",
+      "page": "11",
+      "tags": [
+        "5 giây"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "5 giây",
+      "chapterTitle": "Giới thiệu về lái xe"
+    },
+    {
+      "id": "q5_010",
+      "chapter": 5,
+      "prompt": "Có cần báo hiệu khi không thấy xe nào xung quanh không?",
+      "choices": [
+        "Chỉ khi trời tối",
+        "Không",
+        "Có"
+      ],
+      "answer": 2,
+      "explanation": "Luôn báo hiệu để người khác có thể dự đoán hành động của bạn.",
+      "page": "11",
+      "tags": [
+        "báo hiệu"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Có",
+      "chapterTitle": "Giới thiệu về lái xe"
+    },
+    {
+      "id": "q5_011",
+      "chapter": 5,
+      "prompt": "Sau khi hoàn thành rẽ, nên làm gì với đèn báo rẽ?",
+      "choices": [
+        "Tắt nếu chưa tự tắt",
+        "Bật đèn khẩn cấp thay thế",
+        "Để bật cho đến khi đỗ xe"
+      ],
+      "answer": 0,
+      "explanation": "Đèn báo rẽ còn bật có thể khiến người khác hiểu sai.",
+      "page": "11",
+      "tags": [
+        "báo hiệu"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Tắt nếu chưa tự tắt",
+      "chapterTitle": "Giới thiệu về lái xe"
+    },
+    {
+      "id": "q5_012",
+      "chapter": 5,
+      "prompt": "Khi nào nên dùng còi trên đường núi hẹp?",
+      "choices": [
+        "Liên tục trong đường hầm",
+        "Mỗi khi vượt qua nhà dân",
+        "Khi không nhìn thấy ít nhất 200 feet phía trước"
+      ],
+      "answer": 2,
+      "explanation": "Còi dùng để cảnh báo nguy hiểm ở đoạn khuất tầm nhìn.",
+      "page": "11",
+      "tags": [
+        "còi"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Khi không nhìn thấy ít nhất 200 feet phía trước",
+      "chapterTitle": "Giới thiệu về lái xe"
+    },
+    {
+      "id": "q5_013",
+      "chapter": 5,
+      "prompt": "Phải hạ đèn chiếu xa khi xe ngược chiều ở trong khoảng bao nhiêu?",
+      "choices": [
+        "200 feet",
+        "500 feet",
+        "1.000 feet"
+      ],
+      "answer": 1,
+      "explanation": "Mốc đối với xe ngược chiều là 500 feet.",
+      "page": "11",
+      "tags": [
+        "500 feet"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "500 feet",
+      "chapterTitle": "Giới thiệu về lái xe"
+    },
+    {
+      "id": "q5_014",
+      "chapter": 5,
+      "prompt": "Phải hạ đèn chiếu xa khi theo sau xe khác trong khoảng bao nhiêu?",
+      "choices": [
+        "100 feet",
+        "500 feet",
+        "300 feet"
+      ],
+      "answer": 2,
+      "explanation": "Mốc theo sau là 300 feet.",
+      "page": "11",
+      "tags": [
+        "300 feet"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "300 feet",
+      "chapterTitle": "Giới thiệu về lái xe"
+    },
+    {
+      "id": "q5_015",
+      "chapter": 5,
+      "prompt": "Phải bật đèn pha bắt đầu khi nào sau hoàng hôn?",
+      "choices": [
+        "30 phút sau hoàng hôn",
+        "Ngay 60 phút sau hoàng hôn",
+        "Chỉ khi đường không có đèn"
+      ],
+      "answer": 0,
+      "explanation": "Thời gian bắt buộc kéo dài đến 30 phút trước bình minh.",
+      "page": "11",
+      "tags": [
+        "đèn pha"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "30 phút sau hoàng hôn",
+      "chapterTitle": "Giới thiệu về lái xe"
+    },
+    {
+      "id": "q5_016",
+      "chapter": 5,
+      "prompt": "Khi cần dùng cần gạt nước vì mưa, phải làm gì?",
+      "choices": [
+        "Bật đèn chiếu gần",
+        "Chỉ bật đèn đỗ xe",
+        "Bật đèn chiếu xa"
+      ],
+      "answer": 0,
+      "explanation": "Quy tắc thường nhớ là gạt nước bật thì đèn chiếu gần cũng bật.",
+      "page": "11",
+      "tags": [
+        "wipers on lights on"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Bật đèn chiếu gần",
+      "chapterTitle": "Giới thiệu về lái xe"
+    },
+    {
+      "id": "q5_017",
+      "chapter": 5,
+      "prompt": "Chỉ dùng đèn đỗ xe để lái có hợp pháp không?",
+      "choices": [
+        "Có, nếu dưới 25 mph",
+        "Không",
+        "Có, trong thành phố"
+      ],
+      "answer": 1,
+      "explanation": "Đèn đỗ xe không thay thế đèn pha.",
+      "page": "11",
+      "tags": [
+        "đèn pha"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Không",
+      "chapterTitle": "Giới thiệu về lái xe"
+    },
+    {
+      "id": "q5_018",
+      "chapter": 5,
+      "prompt": "Để cảnh báo xe phía sau về nguy hiểm, có thể nhấp nhẹ bàn đạp thắng bao nhiêu lần?",
+      "choices": [
+        "Một lần duy nhất",
+        "Ba hoặc bốn lần",
+        "Mười lần liên tục"
+      ],
+      "answer": 1,
+      "explanation": "Sổ tay đề nghị ba hoặc bốn lần.",
+      "page": "12",
+      "tags": [
+        "đèn khẩn cấp"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Ba hoặc bốn lần",
+      "chapterTitle": "Giới thiệu về lái xe"
+    },
+    {
+      "id": "q5_019",
+      "chapter": 5,
+      "prompt": "Nếu xe bị hỏng, nơi nào không nên dừng?",
+      "choices": [
+        "Ngay sau đỉnh dốc hoặc khúc cua",
+        "Ngoài lề đường ở chỗ dễ thấy",
+        "Khu vực cách xa dòng xe"
+      ],
+      "answer": 0,
+      "explanation": "Xe sau có thể không nhìn thấy kịp nếu bạn dừng ở chỗ khuất.",
+      "page": "12",
+      "tags": [
+        "xe hỏng"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Ngay sau đỉnh dốc hoặc khúc cua",
+      "chapterTitle": "Giới thiệu về lái xe"
+    },
+    {
+      "id": "q5_020",
+      "chapter": 5,
+      "prompt": "Khi xe hỏng và đang chờ trợ giúp, hướng dẫn chung là gì?",
+      "choices": [
+        "Đứng ngay sau xe",
+        "Đi bộ dọc giữa xa lộ",
+        "Ở trong xe cho đến khi có trợ giúp, nếu tình huống cho phép"
+      ],
+      "answer": 2,
+      "explanation": "Ở trong xe giúp tránh dòng giao thông, trừ khi có nguy hiểm khác buộc phải rời xe.",
+      "page": "12",
+      "tags": [
+        "xe hỏng"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Ở trong xe cho đến khi có trợ giúp, nếu tình huống cho phép",
+      "chapterTitle": "Giới thiệu về lái xe"
+    },
+    {
+      "id": "q5_021",
+      "chapter": 5,
+      "prompt": "Tình huống nào luôn cần báo hiệu?",
+      "choices": [
+        "Giữ nguyên làn trên đường thẳng",
+        "Chuyển làn",
+        "Chờ trong chỗ đỗ xe đã tắt máy"
+      ],
+      "answer": 1,
+      "explanation": "Chuyển làn là một trong các thao tác bắt buộc báo hiệu.",
+      "page": "10",
+      "tags": [
+        "báo hiệu"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Chuyển làn",
+      "chapterTitle": "Giới thiệu về lái xe"
+    },
+    {
+      "id": "q5_022",
+      "chapter": 5,
+      "prompt": "Nếu ánh nắng làm đèn báo rẽ khó nhìn thấy, nên làm gì?",
+      "choices": [
+        "Bấm còi liên tục thay cho báo hiệu",
+        "Không cần báo hiệu",
+        "Dùng thêm tín hiệu tay"
+      ],
+      "answer": 2,
+      "explanation": "Tín hiệu tay là phương án khi đèn không hoạt động hoặc khó thấy.",
+      "page": "10",
+      "tags": [
+        "tín hiệu tay"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Dùng thêm tín hiệu tay",
+      "chapterTitle": "Giới thiệu về lái xe"
+    },
+    {
+      "id": "q6_001",
+      "chapter": 6,
+      "prompt": "Vạch màu nào thường phân chia dòng xe đi ngược chiều?",
+      "choices": [
+        "Vạch xanh dương",
+        "Vạch trắng",
+        "Vạch vàng"
+      ],
+      "answer": 2,
+      "explanation": "Vạch vàng dùng cho dòng xe ngược chiều; vạch trắng dùng cho làn cùng chiều.",
+      "page": "13",
+      "tags": [
+        "vạch đường"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Vạch vàng",
+      "chapterTitle": "Điều hướng đường đi"
+    },
+    {
+      "id": "q6_002",
+      "chapter": 6,
+      "prompt": "Khi vạch vàng liền nằm bên phía làn của bạn trên đường hai chiều một làn mỗi hướng, bạn có được vượt không?",
+      "choices": [
+        "Không",
+        "Có, nếu xe trước chạy dưới giới hạn",
+        "Có, nếu bấm còi"
+      ],
+      "answer": 0,
+      "explanation": "Vạch vàng liền phía làn của bạn cấm vượt trong tình huống này.",
+      "page": "13",
+      "tags": [
+        "vạch vàng"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Không",
+      "chapterTitle": "Điều hướng đường đi"
+    },
+    {
+      "id": "q6_003",
+      "chapter": 6,
+      "prompt": "Hai bộ vạch vàng liền cách nhau từ 2 feet trở lên được xem là gì?",
+      "choices": [
+        "Làn rẽ trái giữa",
+        "Dải phân cách không được lái qua, trừ lối mở dành riêng",
+        "Làn HOV có thể vào ở mọi chỗ"
+      ],
+      "answer": 1,
+      "explanation": "Không được lái vào hoặc băng qua khu vực này.",
+      "page": "13",
+      "tags": [
+        "dải phân cách"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Dải phân cách không được lái qua, trừ lối mở dành riêng",
+      "chapterTitle": "Điều hướng đường đi"
+    },
+    {
+      "id": "q6_004",
+      "chapter": 6,
+      "prompt": "Vạch vàng đứt ở phía làn của bạn có ý nghĩa gì?",
+      "choices": [
+        "Có thể vượt khi an toàn",
+        "Chỉ xe tải được vượt",
+        "Cấm vượt tuyệt đối"
+      ],
+      "answer": 0,
+      "explanation": "Vạch đứt cho phép vượt nếu tầm nhìn và giao thông an toàn.",
+      "page": "13",
+      "tags": [
+        "vạch vàng"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Có thể vượt khi an toàn",
+      "chapterTitle": "Điều hướng đường đi"
+    },
+    {
+      "id": "q6_005",
+      "chapter": 6,
+      "prompt": "Vạch trắng đứt thường dùng để làm gì?",
+      "choices": [
+        "Phân chia các làn đi cùng chiều",
+        "Phân chia xe đi ngược chiều",
+        "Đánh dấu lề đỏ cấm đỗ"
+      ],
+      "answer": 0,
+      "explanation": "Vạch trắng đứt phân chia làn trên đường có nhiều làn cùng chiều.",
+      "page": "14",
+      "tags": [
+        "vạch trắng"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Phân chia các làn đi cùng chiều",
+      "chapterTitle": "Điều hướng đường đi"
+    },
+    {
+      "id": "q6_006",
+      "chapter": 6,
+      "prompt": "Có được băng qua hai vạch trắng liền để vào làn HOV không?",
+      "choices": [
+        "Có, nếu đủ số người",
+        "Không",
+        "Có, nhưng chỉ ban đêm"
+      ],
+      "answer": 1,
+      "explanation": "Phải chờ lối vào được đánh dấu bằng vạch đứt hoặc lối mở chỉ định.",
+      "page": "14",
+      "tags": [
+        "HOV"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Không",
+      "chapterTitle": "Điều hướng đường đi"
+    },
+    {
+      "id": "q6_007",
+      "chapter": 6,
+      "prompt": "Làn số 1 nằm ở đâu?",
+      "choices": [
+        "Ngoài cùng bên trái, gần dải phân cách nhất",
+        "Ngoài cùng bên phải",
+        "Luôn là làn giữa"
+      ],
+      "answer": 0,
+      "explanation": "Làn bên trái hay làn nhanh được gọi là làn số 1.",
+      "page": "15",
+      "tags": [
+        "làn số 1"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Ngoài cùng bên trái, gần dải phân cách nhất",
+      "chapterTitle": "Điều hướng đường đi"
+    },
+    {
+      "id": "q6_008",
+      "chapter": 6,
+      "prompt": "Bước nào bắt buộc trước khi đổi làn?",
+      "choices": [
+        "Tắt đèn báo rẽ",
+        "Giảm tốc thật mạnh trong làn hiện tại",
+        "Nhìn qua vai để kiểm tra điểm mù"
+      ],
+      "answer": 2,
+      "explanation": "Cần báo hiệu, kiểm tra gương và nhìn qua vai.",
+      "page": "15",
+      "tags": [
+        "đổi làn"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Nhìn qua vai để kiểm tra điểm mù",
+      "chapterTitle": "Điều hướng đường đi"
+    },
+    {
+      "id": "q6_009",
+      "chapter": 6,
+      "prompt": "Có luôn cần giảm tốc trước khi đổi làn không?",
+      "choices": [
+        "Có, phải dừng hẳn",
+        "Có, phải giảm ít nhất 20 mph",
+        "Không, điều quan trọng là có khoảng trống và tốc độ phù hợp"
+      ],
+      "answer": 2,
+      "explanation": "Sổ tay nói không nhất thiết phải giảm tốc trước khi đổi làn.",
+      "page": "15",
+      "tags": [
+        "đổi làn"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Không, điều quan trọng là có khoảng trống và tốc độ phù hợp",
+      "chapterTitle": "Điều hướng đường đi"
+    },
+    {
+      "id": "q6_010",
+      "chapter": 6,
+      "prompt": "Xe nào thường được phép dùng làn HOV nếu không có biển cấm khác?",
+      "choices": [
+        "Mô tô",
+        "Xe kéo rơ moóc bất kể biển báo",
+        "Xe chỉ có một người trong mọi giờ"
+      ],
+      "answer": 0,
+      "explanation": "Mô tô thường được dùng làn HOV; xe khác phải đáp ứng số người hoặc decal và thời gian biển báo.",
+      "page": "16",
+      "tags": [
+        "HOV"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Mô tô",
+      "chapterTitle": "Điều hướng đường đi"
+    },
+    {
+      "id": "q6_011",
+      "chapter": 6,
+      "prompt": "Làn rẽ trái ở giữa được dùng cho mục đích nào?",
+      "choices": [
+        "Chuẩn bị và thực hiện rẽ trái hoặc quay đầu hợp pháp",
+        "Vượt xe chậm",
+        "Lưu thông liên tục"
+      ],
+      "answer": 0,
+      "explanation": "Không dùng làn này để lưu thông hoặc vượt.",
+      "page": "16",
+      "tags": [
+        "làn rẽ trái giữa"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Chuẩn bị và thực hiện rẽ trái hoặc quay đầu hợp pháp",
+      "chapterTitle": "Điều hướng đường đi"
+    },
+    {
+      "id": "q6_012",
+      "chapter": 6,
+      "prompt": "Bạn được lái khoảng tối đa bao xa trong làn rẽ trái ở giữa?",
+      "choices": [
+        "500 feet",
+        "200 feet",
+        "Một dặm"
+      ],
+      "answer": 1,
+      "explanation": "Giới hạn khoảng 200 feet.",
+      "page": "16",
+      "tags": [
+        "200 feet"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "200 feet",
+      "chapterTitle": "Điều hướng đường đi"
+    },
+    {
+      "id": "q6_013",
+      "chapter": 6,
+      "prompt": "Trên đường hai làn, khi nào xe chậm phải dùng khu vực nhường để xe sau vượt?",
+      "choices": [
+        "Chỉ khi cảnh sát bật còi",
+        "Khi có một xe theo sau",
+        "Khi có từ 5 xe trở lên theo sau và vượt bình thường không an toàn"
+      ],
+      "answer": 2,
+      "explanation": "Quy tắc 5 xe giúp tránh cản trở dòng giao thông.",
+      "page": "16",
+      "tags": [
+        "xe chậm"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Khi có từ 5 xe trở lên theo sau và vượt bình thường không an toàn",
+      "chapterTitle": "Điều hướng đường đi"
+    },
+    {
+      "id": "q6_014",
+      "chapter": 6,
+      "prompt": "Khi nào ô tô được đi vào làn xe đạp để chuẩn bị rẽ?",
+      "choices": [
+        "Trong vòng 200 feet trước chỗ rẽ, sau khi kiểm tra điểm mù",
+        "Không bao giờ trong bất kỳ trường hợp nào",
+        "Trong vòng 500 feet ở mọi nơi"
+      ],
+      "answer": 0,
+      "explanation": "Có thể vào trong vòng 200 feet để rẽ khi an toàn.",
+      "page": "17",
+      "tags": [
+        "làn xe đạp"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Trong vòng 200 feet trước chỗ rẽ, sau khi kiểm tra điểm mù",
+      "chapterTitle": "Điều hướng đường đi"
+    },
+    {
+      "id": "q6_015",
+      "chapter": 6,
+      "prompt": "Trước khi đi vào làn xe đạp để rẽ phải, cần làm gì?",
+      "choices": [
+        "Bấm còi và đi ngay",
+        "Chỉ nhìn gương giữa",
+        "Kiểm tra điểm mù để tìm người đi xe đạp"
+      ],
+      "answer": 2,
+      "explanation": "Người đi xe đạp có thể ở giữa xe và lề.",
+      "page": "17",
+      "tags": [
+        "làn xe đạp"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Kiểm tra điểm mù để tìm người đi xe đạp",
+      "chapterTitle": "Điều hướng đường đi"
+    },
+    {
+      "id": "q6_016",
+      "chapter": 6,
+      "prompt": "Sau khi dừng hẳn ở đèn đỏ, khi nào có thể rẽ phải?",
+      "choices": [
+        "Khi không có biển cấm, không có mũi tên đỏ và đã nhường đường",
+        "Chỉ khi có xe phía sau bấm còi",
+        "Luôn luôn, không cần nhường"
+      ],
+      "answer": 0,
+      "explanation": "Rẽ phải đèn đỏ cần dừng hẳn, nhường và không bị cấm.",
+      "page": "18",
+      "tags": [
+        "đèn đỏ"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Khi không có biển cấm, không có mũi tên đỏ và đã nhường đường",
+      "chapterTitle": "Điều hướng đường đi"
+    },
+    {
+      "id": "q6_017",
+      "chapter": 6,
+      "prompt": "Có được rẽ phải khi mũi tên đỏ đang sáng không?",
+      "choices": [
+        "Có, nếu đường vắng",
+        "Có, sau khi dừng",
+        "Không"
+      ],
+      "answer": 2,
+      "explanation": "Mũi tên đỏ cấm rẽ theo hướng mũi tên.",
+      "page": "18",
+      "tags": [
+        "mũi tên đỏ"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Không",
+      "chapterTitle": "Điều hướng đường đi"
+    },
+    {
+      "id": "q6_018",
+      "chapter": 6,
+      "prompt": "Khi nào có thể rẽ trái khi đèn đỏ?",
+      "choices": [
+        "Từ mọi đường hai chiều sang đường hai chiều",
+        "Từ đường một chiều sang đường một chiều, sau khi dừng và nhường, nếu không bị cấm",
+        "Bất cứ khi nào không thấy cảnh sát"
+      ],
+      "answer": 1,
+      "explanation": "Đây là ngoại lệ cụ thể cho rẽ trái khi đèn đỏ.",
+      "page": "19",
+      "tags": [
+        "rẽ trái"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Từ đường một chiều sang đường một chiều, sau khi dừng và nhường, nếu không bị cấm",
+      "chapterTitle": "Điều hướng đường đi"
+    },
+    {
+      "id": "q6_019",
+      "chapter": 6,
+      "prompt": "Tầm nhìn tối thiểu thường cần để quay đầu hợp pháp là bao nhiêu mỗi hướng?",
+      "choices": [
+        "500 feet",
+        "200 feet",
+        "50 feet"
+      ],
+      "answer": 1,
+      "explanation": "Không quay đầu nếu không nhìn rõ 200 feet mỗi hướng.",
+      "page": "20",
+      "tags": [
+        "quay đầu"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "200 feet",
+      "chapterTitle": "Điều hướng đường đi"
+    },
+    {
+      "id": "q6_020",
+      "chapter": 6,
+      "prompt": "Xe nào có quyền ưu tiên khi bạn nhập xa lộ?",
+      "choices": [
+        "Xe nhỏ hơn",
+        "Xe đang ở đoạn đường nối",
+        "Dòng xe đang chạy trên xa lộ"
+      ],
+      "answer": 2,
+      "explanation": "Người nhập làn phải điều chỉnh tốc độ và tìm khoảng trống.",
+      "page": "23",
+      "tags": [
+        "nhập xa lộ"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Dòng xe đang chạy trên xa lộ",
+      "chapterTitle": "Điều hướng đường đi"
+    },
+    {
+      "id": "q6_021",
+      "chapter": 6,
+      "prompt": "Khi nhập xa lộ, nên đạt tốc độ nào?",
+      "choices": [
+        "Dừng ở cuối đoạn nối rồi mới tăng tốc trong mọi trường hợp",
+        "Luôn thấp hơn dòng xe 20 mph",
+        "Bằng hoặc gần bằng tốc độ dòng xe"
+      ],
+      "answer": 2,
+      "explanation": "Tốc độ tương đương giúp nhập làn an toàn; chỉ dừng khi thực sự cần.",
+      "page": "23",
+      "tags": [
+        "nhập xa lộ"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Bằng hoặc gần bằng tốc độ dòng xe",
+      "chapterTitle": "Điều hướng đường đi"
+    },
+    {
+      "id": "q6_022",
+      "chapter": 6,
+      "prompt": "Khi chuẩn bị thoát xa lộ, nên báo hiệu bao lâu trước lối ra?",
+      "choices": [
+        "1 giây",
+        "20 giây bắt buộc",
+        "Khoảng 5 giây, tương đương khoảng 400 feet"
+      ],
+      "answer": 2,
+      "explanation": "Sổ tay nêu 5 giây trước khi ra.",
+      "page": "23",
+      "tags": [
+        "thoát xa lộ"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Khoảng 5 giây, tương đương khoảng 400 feet",
+      "chapterTitle": "Điều hướng đường đi"
+    },
+    {
+      "id": "q6_023",
+      "chapter": 6,
+      "prompt": "Khoảng trống ước tính để nhập dòng xe từ trạng thái dừng trên đường phố là bao nhiêu?",
+      "choices": [
+        "Khoảng 150 feet, nửa dãy nhà",
+        "Khoảng 600 feet",
+        "Khoảng 25 feet"
+      ],
+      "answer": 0,
+      "explanation": "Trên phố cần khoảng nửa dãy nhà; trên xa lộ khoảng một dãy nhà, 300 feet.",
+      "page": "24",
+      "tags": [
+        "khoảng trống"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Khoảng 150 feet, nửa dãy nhà",
+      "chapterTitle": "Điều hướng đường đi"
+    },
+    {
+      "id": "q6_024",
+      "chapter": 6,
+      "prompt": "Trong phạm vi bao nhiêu feet của cầu hoặc đường hầm thường không được vượt?",
+      "choices": [
+        "100 feet",
+        "500 feet",
+        "25 feet"
+      ],
+      "answer": 0,
+      "explanation": "Quy tắc 100 feet cũng áp dụng gần giao lộ, đường sắt và khu vực nguy hiểm.",
+      "page": "24",
+      "tags": [
+        "vượt xe"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "100 feet",
+      "chapterTitle": "Điều hướng đường đi"
+    },
+    {
+      "id": "q6_025",
+      "chapter": 6,
+      "prompt": "Trường hợp nào có thể vượt bên phải hợp pháp?",
+      "choices": [
+        "Xe trước đang rẽ trái và có đủ chỗ trên phần đường hợp pháp",
+        "Lái ra lề đất để vượt",
+        "Bất cứ khi nào xe trước chạy chậm"
+      ],
+      "answer": 0,
+      "explanation": "Không được rời mặt đường trải nhựa để vượt.",
+      "page": "25",
+      "tags": [
+        "vượt phải"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Xe trước đang rẽ trái và có đủ chỗ trên phần đường hợp pháp",
+      "chapterTitle": "Điều hướng đường đi"
+    },
+    {
+      "id": "q6_026",
+      "chapter": 6,
+      "prompt": "Khi một xe khác đang vượt bạn, nên làm gì?",
+      "choices": [
+        "Giữ làn và giữ tốc độ",
+        "Tăng tốc để ngăn họ vượt",
+        "Chuyển sang làn họ đang dùng"
+      ],
+      "answer": 0,
+      "explanation": "Cho xe kia hoàn tất vượt an toàn.",
+      "page": "25",
+      "tags": [
+        "bị vượt"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Giữ làn và giữ tốc độ",
+      "chapterTitle": "Điều hướng đường đi"
+    },
+    {
+      "id": "q6_027",
+      "chapter": 6,
+      "prompt": "Chỗ trống đỗ song song nên dài hơn xe ít nhất bao nhiêu?",
+      "choices": [
+        "3 feet",
+        "10 feet",
+        "1 foot"
+      ],
+      "answer": 0,
+      "explanation": "Sổ tay đề nghị chỗ dài hơn xe ít nhất 3 feet.",
+      "page": "26",
+      "tags": [
+        "đỗ song song"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "3 feet",
+      "chapterTitle": "Điều hướng đường đi"
+    },
+    {
+      "id": "q6_028",
+      "chapter": 6,
+      "prompt": "Sau khi đỗ song song, xe nên cách lề trong khoảng bao nhiêu?",
+      "choices": [
+        "3 feet",
+        "5 feet",
+        "18 inch"
+      ],
+      "answer": 2,
+      "explanation": "Kết thúc song song và trong khoảng 18 inch từ lề.",
+      "page": "26",
+      "tags": [
+        "đỗ song song"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "18 inch",
+      "chapterTitle": "Điều hướng đường đi"
+    },
+    {
+      "id": "q6_029",
+      "chapter": 6,
+      "prompt": "Khi đỗ xuống dốc có lề, quay bánh trước theo hướng nào?",
+      "choices": [
+        "Về phía lề",
+        "Giữ thẳng tuyệt đối",
+        "Ra xa lề"
+      ],
+      "answer": 0,
+      "explanation": "Nếu xe lăn, bánh sẽ chặn vào lề.",
+      "page": "27",
+      "tags": [
+        "đỗ dốc"
+      ],
+      "difficulty": 1,
+      "image": "assets/do-xe-tren-doi.png",
+      "sourceType": "handbook",
+      "correctChoice": "Về phía lề",
+      "chapterTitle": "Điều hướng đường đi"
+    },
+    {
+      "id": "q6_030",
+      "chapter": 6,
+      "prompt": "Khi đỗ lên dốc có lề, quay bánh trước thế nào?",
+      "choices": [
+        "Về phía lề",
+        "Giữ thẳng và không dùng thắng tay",
+        "Ra xa lề và để xe lùi nhẹ cho bánh chạm lề"
+      ],
+      "answer": 2,
+      "explanation": "Bánh trước nên quay ra xa lề.",
+      "page": "27",
+      "tags": [
+        "đỗ dốc"
+      ],
+      "difficulty": 1,
+      "image": "assets/do-xe-tren-doi.png",
+      "sourceType": "handbook",
+      "correctChoice": "Ra xa lề và để xe lùi nhẹ cho bánh chạm lề",
+      "chapterTitle": "Điều hướng đường đi"
+    },
+    {
+      "id": "q6_031",
+      "chapter": 6,
+      "prompt": "Khi đỗ trên dốc không có lề, nên quay bánh xe thế nào?",
+      "choices": [
+        "Sang trái về giữa đường",
+        "Giữ thẳng",
+        "Sang phải, để xe lăn khỏi giữa đường nếu thắng hỏng"
+      ],
+      "answer": 2,
+      "explanation": "Mục tiêu là hướng xe ra khỏi dòng giao thông.",
+      "page": "27",
+      "tags": [
+        "đỗ dốc"
+      ],
+      "difficulty": 1,
+      "image": "assets/do-xe-tren-doi.png",
+      "sourceType": "handbook",
+      "correctChoice": "Sang phải, để xe lăn khỏi giữa đường nếu thắng hỏng",
+      "chapterTitle": "Điều hướng đường đi"
+    },
+    {
+      "id": "q6_032",
+      "chapter": 6,
+      "prompt": "Lề sơn đỏ có ý nghĩa gì?",
+      "choices": [
+        "Cấm dừng, đứng hoặc đỗ, trừ xe buýt tại chỗ dành riêng",
+        "Chỉ đón trả hành khách",
+        "Đỗ giới hạn thời gian"
+      ],
+      "answer": 0,
+      "explanation": "Lề đỏ là khu vực cấm dừng, đứng hoặc đỗ.",
+      "page": "28",
+      "tags": [
+        "màu lề"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Cấm dừng, đứng hoặc đỗ, trừ xe buýt tại chỗ dành riêng",
+      "chapterTitle": "Điều hướng đường đi"
+    },
+    {
+      "id": "q6_033",
+      "chapter": 6,
+      "prompt": "Lề sơn xanh dương dành cho ai?",
+      "choices": [
+        "Xe giao hàng",
+        "Người khuyết tật hoặc người chở họ có biển hoặc placard hợp lệ",
+        "Mọi xe điện"
+      ],
+      "answer": 1,
+      "explanation": "Phải có giấy phép hoặc biển số phù hợp.",
+      "page": "28",
+      "tags": [
+        "màu lề"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Người khuyết tật hoặc người chở họ có biển hoặc placard hợp lệ",
+      "chapterTitle": "Điều hướng đường đi"
+    },
+    {
+      "id": "q6_034",
+      "chapter": 6,
+      "prompt": "Lề sơn trắng cho phép gì?",
+      "choices": [
+        "Bốc dỡ hàng thương mại không giới hạn",
+        "Đỗ cả ngày",
+        "Dừng đủ lâu để đón trả người hoặc bỏ thư"
+      ],
+      "answer": 2,
+      "explanation": "Lề trắng chỉ cho dừng rất ngắn.",
+      "page": "28",
+      "tags": [
+        "màu lề"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Dừng đủ lâu để đón trả người hoặc bỏ thư",
+      "chapterTitle": "Điều hướng đường đi"
+    },
+    {
+      "id": "q6_035",
+      "chapter": 6,
+      "prompt": "Không được đỗ trong vòng bao nhiêu feet của trụ cứu hỏa?",
+      "choices": [
+        "30 feet",
+        "5 feet",
+        "15 feet"
+      ],
+      "answer": 2,
+      "explanation": "Mốc là 15 feet.",
+      "page": "28",
+      "tags": [
+        "đỗ xe"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "15 feet",
+      "chapterTitle": "Điều hướng đường đi"
+    },
+    {
+      "id": "q6_036",
+      "chapter": 6,
+      "prompt": "Không được đỗ trong vòng bao nhiêu feet phía tiếp cận lối qua đường thông thường?",
+      "choices": [
+        "20 feet",
+        "10 feet",
+        "40 feet"
+      ],
+      "answer": 0,
+      "explanation": "Mốc 20 feet, hoặc 15 feet khi có phần mở rộng lề.",
+      "page": "28",
+      "tags": [
+        "đỗ xe"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "20 feet",
+      "chapterTitle": "Điều hướng đường đi"
+    },
+    {
+      "id": "q6_037",
+      "chapter": 6,
+      "prompt": "Xe để trên xa lộ quá bao lâu có thể bị kéo đi?",
+      "choices": [
+        "4 giờ",
+        "24 giờ",
+        "30 phút"
+      ],
+      "answer": 0,
+      "explanation": "Xe dừng, đỗ hoặc để trên xa lộ hơn 4 giờ có thể bị kéo.",
+      "page": "29",
+      "tags": [
+        "kéo xe"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "4 giờ",
+      "chapterTitle": "Điều hướng đường đi"
+    },
+    {
+      "id": "q6_038",
+      "chapter": 6,
+      "prompt": "Khi cảnh sát ra hiệu dừng, hành động đầu tiên phù hợp là gì?",
+      "choices": [
+        "Bật xi nhan phải để xác nhận đã thấy và tấp an toàn sang phải",
+        "Dừng ngay giữa làn",
+        "Ra khỏi xe ngay lập tức"
+      ],
+      "answer": 0,
+      "explanation": "Sau khi tấp, ở trong xe trừ khi được yêu cầu ra ngoài.",
+      "page": "29",
+      "tags": [
+        "cảnh sát dừng xe"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Bật xi nhan phải để xác nhận đã thấy và tấp an toàn sang phải",
+      "chapterTitle": "Điều hướng đường đi"
+    },
+    {
+      "id": "q6_039",
+      "chapter": 6,
+      "prompt": "Khi bị cảnh sát yêu cầu, người lái phải xuất trình gì?",
+      "choices": [
+        "Chỉ giấy khai sinh",
+        "Bằng lái, bằng chứng bảo hiểm và đăng ký xe",
+        "Chỉ thẻ tín dụng"
+      ],
+      "answer": 1,
+      "explanation": "Đây là ba giấy tờ cơ bản trong một lần dừng giao thông.",
+      "page": "30",
+      "tags": [
+        "cảnh sát dừng xe"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Bằng lái, bằng chứng bảo hiểm và đăng ký xe",
+      "chapterTitle": "Điều hướng đường đi"
+    },
+    {
+      "id": "q6_040",
+      "chapter": 6,
+      "prompt": "Nếu không đồng ý cho khám xe nhưng cảnh sát vẫn có thẩm quyền pháp lý, bạn nên làm gì?",
+      "choices": [
+        "Khóa cửa và chống đối",
+        "Nói rõ không đồng ý nhưng không cản trở bằng thể lực",
+        "Dùng xe bỏ đi"
+      ],
+      "answer": 1,
+      "explanation": "Có thể bảo lưu sự không đồng ý nhưng không được cản trở hành động hợp pháp.",
+      "page": "30",
+      "tags": [
+        "quyền"
+      ],
+      "difficulty": 3,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Nói rõ không đồng ý nhưng không cản trở bằng thể lực",
+      "chapterTitle": "Điều hướng đường đi"
+    },
+    {
+      "id": "q6_041",
+      "chapter": 6,
+      "prompt": "Có được ghi hình tương tác với cảnh sát ở nơi công cộng không?",
+      "choices": [
+        "Có, nếu không cản trở nhiệm vụ hợp pháp",
+        "Không bao giờ",
+        "Chỉ khi cảnh sát giao thiết bị"
+      ],
+      "answer": 0,
+      "explanation": "Quyền ghi hình không cho phép gây cản trở.",
+      "page": "31",
+      "tags": [
+        "ghi hình"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Có, nếu không cản trở nhiệm vụ hợp pháp",
+      "chapterTitle": "Điều hướng đường đi"
+    },
+    {
+      "id": "q7_001",
+      "chapter": 7,
+      "prompt": "Đèn đỏ nhấp nháy có ý nghĩa gì?",
+      "choices": [
+        "Tăng tốc để qua trước khi đổi đèn",
+        "Chỉ giảm tốc, không cần dừng",
+        "Dừng hoàn toàn rồi đi khi an toàn"
+      ],
+      "answer": 2,
+      "explanation": "Đèn đỏ nhấp nháy được xử lý như biển STOP.",
+      "page": "33",
+      "tags": [
+        "đèn nhấp nháy"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Dừng hoàn toàn rồi đi khi an toàn",
+      "chapterTitle": "Luật và nguyên tắc khi đi đường"
+    },
+    {
+      "id": "q7_002",
+      "chapter": 7,
+      "prompt": "Đèn vàng nhấp nháy yêu cầu gì?",
+      "choices": [
+        "Giảm tốc và đi thận trọng",
+        "Dừng hoàn toàn trong mọi trường hợp",
+        "Quay đầu ngay"
+      ],
+      "answer": 0,
+      "explanation": "Đèn vàng nhấp nháy là cảnh báo, không bắt buộc dừng.",
+      "page": "34",
+      "tags": [
+        "đèn nhấp nháy"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Giảm tốc và đi thận trọng",
+      "chapterTitle": "Luật và nguyên tắc khi đi đường"
+    },
+    {
+      "id": "q7_003",
+      "chapter": 7,
+      "prompt": "Mũi tên vàng nhấp nháy cho phép bạn làm gì?",
+      "choices": [
+        "Rẽ sau khi nhường xe ngược chiều, người đi bộ và xe đạp",
+        "Rẽ với quyền ưu tiên tuyệt đối",
+        "Chỉ đi thẳng"
+      ],
+      "answer": 0,
+      "explanation": "Đây là lượt rẽ không được bảo vệ.",
+      "page": "34",
+      "tags": [
+        "mũi tên"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Rẽ sau khi nhường xe ngược chiều, người đi bộ và xe đạp",
+      "chapterTitle": "Luật và nguyên tắc khi đi đường"
+    },
+    {
+      "id": "q7_004",
+      "chapter": 7,
+      "prompt": "Khi đèn xanh nhưng giao lộ đang bị chặn, bạn nên làm gì?",
+      "choices": [
+        "Đi vào giao lộ và chờ giữa đường",
+        "Bấm còi để xe trước nhường",
+        "Chờ cho đến khi có đủ chỗ để đi qua hoàn toàn"
+      ],
+      "answer": 2,
+      "explanation": "Không được chặn giao lộ dù đèn xanh.",
+      "page": "34",
+      "tags": [
+        "đèn xanh"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Chờ cho đến khi có đủ chỗ để đi qua hoàn toàn",
+      "chapterTitle": "Luật và nguyên tắc khi đi đường"
+    },
+    {
+      "id": "q7_005",
+      "chapter": 7,
+      "prompt": "Khi đèn giao thông không hoạt động, xử lý giao lộ thế nào?",
+      "choices": [
+        "Như giao lộ có biển STOP ở mọi hướng",
+        "Xe trên đường lớn đi không cần dừng",
+        "Xe rẽ trái luôn đi trước"
+      ],
+      "answer": 0,
+      "explanation": "Mỗi hướng dừng rồi đi theo quyền ưu tiên.",
+      "page": "34",
+      "tags": [
+        "đèn hỏng"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Như giao lộ có biển STOP ở mọi hướng",
+      "chapterTitle": "Luật và nguyên tắc khi đi đường"
+    },
+    {
+      "id": "q7_006",
+      "chapter": 7,
+      "prompt": "Biển YIELD yêu cầu gì?",
+      "choices": [
+        "Giảm tốc và sẵn sàng dừng để nhường",
+        "Tăng tốc nhập dòng xe",
+        "Dừng 5 giây bắt buộc"
+      ],
+      "answer": 0,
+      "explanation": "Nhường đường có thể cần dừng nếu có người hoặc xe có quyền ưu tiên.",
+      "page": "35",
+      "tags": [
+        "biển báo"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Giảm tốc và sẵn sàng dừng để nhường",
+      "chapterTitle": "Luật và nguyên tắc khi đi đường"
+    },
+    {
+      "id": "q7_007",
+      "chapter": 7,
+      "prompt": "Biển hình năm cạnh thường cảnh báo điều gì?",
+      "choices": [
+        "Bệnh viện",
+        "Đường sắt",
+        "Khu vực trường học"
+      ],
+      "answer": 2,
+      "explanation": "Hình năm cạnh gắn với trường học hoặc lối qua đường học sinh.",
+      "page": "38",
+      "tags": [
+        "hình biển"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Khu vực trường học",
+      "chapterTitle": "Luật và nguyên tắc khi đi đường"
+    },
+    {
+      "id": "q7_008",
+      "chapter": 7,
+      "prompt": "Biển hình thoi thường có chức năng gì?",
+      "choices": [
+        "Cảnh báo điều kiện hoặc nguy hiểm phía trước",
+        "Quy định đỗ xe dài hạn",
+        "Chỉ dẫn dịch vụ ăn uống"
+      ],
+      "answer": 0,
+      "explanation": "Biển cảnh báo thường có hình thoi.",
+      "page": "38",
+      "tags": [
+        "hình biển"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Cảnh báo điều kiện hoặc nguy hiểm phía trước",
+      "chapterTitle": "Luật và nguyên tắc khi đi đường"
+    },
+    {
+      "id": "q7_009",
+      "chapter": 7,
+      "prompt": "Biển tròn vàng đen hoặc biển chữ X cảnh báo gì?",
+      "choices": [
+        "Đường ngang giao cắt với đường sắt",
+        "Làn HOV",
+        "Vòng xoay"
+      ],
+      "answer": 0,
+      "explanation": "Giảm tốc, quan sát, lắng nghe và chuẩn bị dừng.",
+      "page": "38",
+      "tags": [
+        "đường sắt"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Đường ngang giao cắt với đường sắt",
+      "chapterTitle": "Luật và nguyên tắc khi đi đường"
+    },
+    {
+      "id": "q7_010",
+      "chapter": 7,
+      "prompt": "Hình biển báo này có ý nghĩa gì?",
+      "choices": [
+        "Cấm quay đầu",
+        "Chỉ được quay đầu",
+        "Đường vòng phía trước"
+      ],
+      "answer": 0,
+      "explanation": "Vòng đỏ có gạch chéo biểu thị hành động bị cấm.",
+      "page": "36",
+      "tags": [
+        "biển báo"
+      ],
+      "difficulty": 1,
+      "image": "assets/sign-no-uturn.png",
+      "sourceType": "handbook",
+      "correctChoice": "Cấm quay đầu",
+      "chapterTitle": "Luật và nguyên tắc khi đi đường"
+    },
+    {
+      "id": "q7_011",
+      "chapter": 7,
+      "prompt": "Hình biển báo này có ý nghĩa gì?",
+      "choices": [
+        "Không được rẽ trái",
+        "Chỉ được rẽ trái",
+        "Giao lộ chữ T"
+      ],
+      "answer": 0,
+      "explanation": "Mũi tên rẽ trái bị gạch chéo nghĩa là cấm rẽ trái.",
+      "page": "36",
+      "tags": [
+        "biển báo"
+      ],
+      "difficulty": 1,
+      "image": "assets/sign-no-left.png",
+      "sourceType": "handbook",
+      "correctChoice": "Không được rẽ trái",
+      "chapterTitle": "Luật và nguyên tắc khi đi đường"
+    },
+    {
+      "id": "q7_012",
+      "chapter": 7,
+      "prompt": "Hình biển báo này có ý nghĩa gì?",
+      "choices": [
+        "Đi bên phải",
+        "Làn phải kết thúc",
+        "Đường một chiều sang trái"
+      ],
+      "answer": 0,
+      "explanation": "Biển KEEP RIGHT yêu cầu đi về bên phải vật cản hoặc dải phân cách.",
+      "page": "36",
+      "tags": [
+        "biển báo"
+      ],
+      "difficulty": 1,
+      "image": "assets/sign-keep-right.png",
+      "sourceType": "handbook",
+      "correctChoice": "Đi bên phải",
+      "chapterTitle": "Luật và nguyên tắc khi đi đường"
+    },
+    {
+      "id": "q7_013",
+      "chapter": 7,
+      "prompt": "Hình biển cảnh báo này cho biết điều gì?",
+      "choices": [
+        "Đường trơn khi ướt",
+        "Hết làn đường",
+        "Đường quanh co"
+      ],
+      "answer": 0,
+      "explanation": "Hình xe trượt cảnh báo mặt đường trơn.",
+      "page": "37",
+      "tags": [
+        "biển cảnh báo"
+      ],
+      "difficulty": 1,
+      "image": "assets/sign-slippery.png",
+      "sourceType": "handbook",
+      "correctChoice": "Đường trơn khi ướt",
+      "chapterTitle": "Luật và nguyên tắc khi đi đường"
+    },
+    {
+      "id": "q7_014",
+      "chapter": 7,
+      "prompt": "Hình biển cảnh báo này cho biết điều gì?",
+      "choices": [
+        "Có dòng xe nhập làn",
+        "Đường cụt",
+        "Đường hai chiều"
+      ],
+      "answer": 0,
+      "explanation": "Một nhánh nhập vào dòng chính là biển merge.",
+      "page": "37",
+      "tags": [
+        "biển cảnh báo"
+      ],
+      "difficulty": 1,
+      "image": "assets/sign-merge.png",
+      "sourceType": "handbook",
+      "correctChoice": "Có dòng xe nhập làn",
+      "chapterTitle": "Luật và nguyên tắc khi đi đường"
+    },
+    {
+      "id": "q7_015",
+      "chapter": 7,
+      "prompt": "Hình biển cảnh báo này cho biết điều gì?",
+      "choices": [
+        "Đèn tín hiệu phía trước",
+        "Đường sắt phía trước",
+        "Biển STOP phía trước"
+      ],
+      "answer": 0,
+      "explanation": "Hình đèn ba màu cảnh báo sắp có tín hiệu giao thông.",
+      "page": "37",
+      "tags": [
+        "biển cảnh báo"
+      ],
+      "difficulty": 1,
+      "image": "assets/sign-signal-ahead.png",
+      "sourceType": "handbook",
+      "correctChoice": "Đèn tín hiệu phía trước",
+      "chapterTitle": "Luật và nguyên tắc khi đi đường"
+    },
+    {
+      "id": "q7_016",
+      "chapter": 7,
+      "prompt": "Hình biển cảnh báo này cho biết điều gì?",
+      "choices": [
+        "Người đi bộ qua đường",
+        "Chỉ người chạy bộ",
+        "Khu vui chơi cấm xe"
+      ],
+      "answer": 0,
+      "explanation": "Biển cảnh báo người đi bộ có thể băng qua.",
+      "page": "37",
+      "tags": [
+        "biển cảnh báo"
+      ],
+      "difficulty": 1,
+      "image": "assets/sign-pedestrian.png",
+      "sourceType": "handbook",
+      "correctChoice": "Người đi bộ qua đường",
+      "chapterTitle": "Luật và nguyên tắc khi đi đường"
+    },
+    {
+      "id": "q7_017",
+      "chapter": 7,
+      "prompt": "Hình biển cảnh báo này cho biết điều gì?",
+      "choices": [
+        "Biển STOP phía trước",
+        "Khu vực cấm dừng",
+        "Phải dừng ngay tại vị trí biển này"
+      ],
+      "answer": 0,
+      "explanation": "Hình biển STOP nhỏ trên mũi tên cảnh báo sắp đến biển STOP.",
+      "page": "37",
+      "tags": [
+        "biển cảnh báo"
+      ],
+      "difficulty": 1,
+      "image": "assets/sign-stop-ahead.png",
+      "sourceType": "handbook",
+      "correctChoice": "Biển STOP phía trước",
+      "chapterTitle": "Luật và nguyên tắc khi đi đường"
+    },
+    {
+      "id": "q7_018",
+      "chapter": 7,
+      "prompt": "Hình biển cảnh báo này cho biết điều gì?",
+      "choices": [
+        "Giao lộ chữ T phía trước",
+        "Cầu hẹp",
+        "Đường quanh co"
+      ],
+      "answer": 0,
+      "explanation": "Đường chính kết thúc tại đường ngang tạo hình chữ T.",
+      "page": "37",
+      "tags": [
+        "biển cảnh báo"
+      ],
+      "difficulty": 1,
+      "image": "assets/sign-t-intersection.png",
+      "sourceType": "handbook",
+      "correctChoice": "Giao lộ chữ T phía trước",
+      "chapterTitle": "Luật và nguyên tắc khi đi đường"
+    },
+    {
+      "id": "q7_019",
+      "chapter": 7,
+      "prompt": "Tại giao lộ không có đèn hoặc biển, hai xe đến cùng lúc thì ai thường đi trước?",
+      "choices": [
+        "Xe ở bên phải",
+        "Xe ở bên trái",
+        "Xe lớn hơn"
+      ],
+      "answer": 0,
+      "explanation": "Khi đến cùng lúc, nhường xe bên phải.",
+      "page": "39",
+      "tags": [
+        "quyền ưu tiên"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Xe ở bên phải",
+      "chapterTitle": "Luật và nguyên tắc khi đi đường"
+    },
+    {
+      "id": "q7_020",
+      "chapter": 7,
+      "prompt": "Khi rẽ trái, bạn phải nhường ai?",
+      "choices": [
+        "Không phải nhường nếu đã bật xi nhan",
+        "Chỉ xe phía sau",
+        "Xe ngược chiều đủ gần để gây nguy hiểm"
+      ],
+      "answer": 2,
+      "explanation": "Báo hiệu không tạo quyền ưu tiên.",
+      "page": "39",
+      "tags": [
+        "rẽ trái"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Xe ngược chiều đủ gần để gây nguy hiểm",
+      "chapterTitle": "Luật và nguyên tắc khi đi đường"
+    },
+    {
+      "id": "q7_021",
+      "chapter": 7,
+      "prompt": "Khi vào vòng xoay, ai có quyền ưu tiên?",
+      "choices": [
+        "Xe rẽ trái",
+        "Xe đang đi vào",
+        "Xe đã ở trong vòng xoay"
+      ],
+      "answer": 2,
+      "explanation": "Nhường tất cả xe đang lưu thông trong vòng.",
+      "page": "40",
+      "tags": [
+        "vòng xoay"
+      ],
+      "difficulty": 1,
+      "image": "assets/vong-xoay.png",
+      "sourceType": "handbook",
+      "correctChoice": "Xe đã ở trong vòng xoay",
+      "chapterTitle": "Luật và nguyên tắc khi đi đường"
+    },
+    {
+      "id": "q7_022",
+      "chapter": 7,
+      "prompt": "Dòng xe trong vòng xoay California đi theo hướng nào?",
+      "choices": [
+        "Theo cả hai chiều tùy xe",
+        "Theo chiều kim đồng hồ",
+        "Ngược chiều kim đồng hồ"
+      ],
+      "answer": 2,
+      "explanation": "Đi quanh đảo trung tâm ngược chiều kim đồng hồ.",
+      "page": "40",
+      "tags": [
+        "vòng xoay"
+      ],
+      "difficulty": 1,
+      "image": "assets/vong-xoay.png",
+      "sourceType": "handbook",
+      "correctChoice": "Ngược chiều kim đồng hồ",
+      "chapterTitle": "Luật và nguyên tắc khi đi đường"
+    },
+    {
+      "id": "q7_023",
+      "chapter": 7,
+      "prompt": "Có được dừng hoặc vượt xe khác trong vòng xoay không?",
+      "choices": [
+        "Có, nếu bấm còi",
+        "Có, nếu vòng xoay có hai làn",
+        "Không, trừ khi cần tránh va chạm hoặc theo điều khiển giao thông"
+      ],
+      "answer": 2,
+      "explanation": "Giữ làn và đi liên tục đến lối ra.",
+      "page": "40",
+      "tags": [
+        "vòng xoay"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Không, trừ khi cần tránh va chạm hoặc theo điều khiển giao thông",
+      "chapterTitle": "Luật và nguyên tắc khi đi đường"
+    },
+    {
+      "id": "q7_024",
+      "chapter": 7,
+      "prompt": "Lối qua đường không có vạch có tồn tại không?",
+      "choices": [
+        "Chỉ trong khu trường học",
+        "Có, thường tại các góc giao lộ",
+        "Không, chỉ nơi có vạch trắng mới là lối qua đường"
+      ],
+      "answer": 1,
+      "explanation": "Lối qua đường có thể có hoặc không có vạch.",
+      "page": "41",
+      "tags": [
+        "lối qua đường"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Có, thường tại các góc giao lộ",
+      "chapterTitle": "Luật và nguyên tắc khi đi đường"
+    },
+    {
+      "id": "q7_025",
+      "chapter": 7,
+      "prompt": "Khi xe bên cạnh đã dừng trước lối qua đường, bạn nên làm gì?",
+      "choices": [
+        "Vượt nhanh bên phải",
+        "Bấm còi để họ đi tiếp",
+        "Không vượt; có thể có người đi bộ bị che khuất"
+      ],
+      "answer": 2,
+      "explanation": "Vượt một xe dừng cho người đi bộ rất nguy hiểm và trái luật.",
+      "page": "41",
+      "tags": [
+        "người đi bộ"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Không vượt; có thể có người đi bộ bị che khuất",
+      "chapterTitle": "Luật và nguyên tắc khi đi đường"
+    },
+    {
+      "id": "q7_026",
+      "chapter": 7,
+      "prompt": "Người đi bộ dùng gậy trắng hoặc chó dẫn đường có quyền ưu tiên khi nào?",
+      "choices": [
+        "Chỉ khi đèn WALK sáng",
+        "Mọi lúc",
+        "Chỉ trong khu trường học"
+      ],
+      "answer": 1,
+      "explanation": "Người lái phải đặc biệt thận trọng và nhường.",
+      "page": "42",
+      "tags": [
+        "người mù"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Mọi lúc",
+      "chapterTitle": "Luật và nguyên tắc khi đi đường"
+    },
+    {
+      "id": "q7_027",
+      "chapter": 7,
+      "prompt": "Tại sao không nên chạy lâu bên cạnh xe tải lớn?",
+      "choices": [
+        "Xe tải không có gương",
+        "Bạn có thể nằm trong điểm mù lớn của xe tải",
+        "Xe tải luôn được phép đổi làn không báo hiệu"
+      ],
+      "answer": 1,
+      "explanation": "Các vùng không nhìn thấy quanh xe tải rất lớn.",
+      "page": "42",
+      "tags": [
+        "xe tải"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Bạn có thể nằm trong điểm mù lớn của xe tải",
+      "chapterTitle": "Luật và nguyên tắc khi đi đường"
+    },
+    {
+      "id": "q7_028",
+      "chapter": 7,
+      "prompt": "Ở 55 mph, xe tải lớn có thể cần khoảng bao xa để dừng?",
+      "choices": [
+        "Khoảng 100 feet",
+        "Ngắn hơn xe con",
+        "Gần 400 feet"
+      ],
+      "answer": 2,
+      "explanation": "Sổ tay so sánh xe con khoảng 300 feet và xe tải gần 400 feet.",
+      "page": "42",
+      "tags": [
+        "xe tải"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Gần 400 feet",
+      "chapterTitle": "Luật và nguyên tắc khi đi đường"
+    },
+    {
+      "id": "q7_029",
+      "chapter": 7,
+      "prompt": "Khi xe cấp cứu có còi và đèn đỏ đến gần, bạn phải làm gì?",
+      "choices": [
+        "Tấp sát lề phải và dừng",
+        "Dừng giữa giao lộ",
+        "Tăng tốc để tránh bị cản"
+      ],
+      "answer": 0,
+      "explanation": "Nếu đang ở giao lộ, đi qua rồi mới tấp và dừng.",
+      "page": "45",
+      "tags": [
+        "xe cấp cứu"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Tấp sát lề phải và dừng",
+      "chapterTitle": "Luật và nguyên tắc khi đi đường"
+    },
+    {
+      "id": "q7_030",
+      "chapter": 7,
+      "prompt": "Bạn không được theo sau xe cấp cứu đang dùng còi hoặc đèn trong khoảng nào?",
+      "choices": [
+        "1.000 feet",
+        "300 feet",
+        "100 feet"
+      ],
+      "answer": 1,
+      "explanation": "Mốc tối thiểu là 300 feet.",
+      "page": "45",
+      "tags": [
+        "300 feet"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "300 feet",
+      "chapterTitle": "Luật và nguyên tắc khi đi đường"
+    },
+    {
+      "id": "q7_031",
+      "chapter": 7,
+      "prompt": "Xe NEV hoặc LSV có tốc độ tối đa bao nhiêu?",
+      "choices": [
+        "55 mph",
+        "25 mph",
+        "35 mph"
+      ],
+      "answer": 1,
+      "explanation": "Các xe này bị giới hạn 25 mph.",
+      "page": "46",
+      "tags": [
+        "NEV"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "25 mph",
+      "chapterTitle": "Luật và nguyên tắc khi đi đường"
+    },
+    {
+      "id": "q7_032",
+      "chapter": 7,
+      "prompt": "Xe NEV hoặc LSV có được chạy trên đường giới hạn 40 mph không?",
+      "choices": [
+        "Có, nếu bật đèn khẩn cấp",
+        "Không",
+        "Có, nếu đi sát lề"
+      ],
+      "answer": 1,
+      "explanation": "Chúng không được chạy trên đường có giới hạn lớn hơn 35 mph.",
+      "page": "46",
+      "tags": [
+        "NEV"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Không",
+      "chapterTitle": "Luật và nguyên tắc khi đi đường"
+    },
+    {
+      "id": "q7_033",
+      "chapter": 7,
+      "prompt": "Người đi xe đạp phải đi theo hướng nào?",
+      "choices": [
+        "Cùng chiều dòng xe",
+        "Ngược chiều để nhìn xe tới",
+        "Bất kỳ hướng nào trong làn xe đạp"
+      ],
+      "answer": 0,
+      "explanation": "Xe đạp là phương tiện và phải đi cùng chiều.",
+      "page": "47",
+      "tags": [
+        "xe đạp"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Cùng chiều dòng xe",
+      "chapterTitle": "Luật và nguyên tắc khi đi đường"
+    },
+    {
+      "id": "q7_034",
+      "chapter": 7,
+      "prompt": "Đèn trước xe đạp ban đêm phải nhìn thấy từ khoảng cách bao nhiêu?",
+      "choices": [
+        "300 feet",
+        "1.000 feet",
+        "50 feet"
+      ],
+      "answer": 0,
+      "explanation": "Đèn trước màu trắng phải nhìn thấy từ 300 feet.",
+      "page": "47",
+      "tags": [
+        "xe đạp"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "300 feet",
+      "chapterTitle": "Luật và nguyên tắc khi đi đường"
+    },
+    {
+      "id": "q7_035",
+      "chapter": 7,
+      "prompt": "Khoảng cách tối thiểu khi vượt xe đạp nếu không thể đổi làn là bao nhiêu?",
+      "choices": [
+        "3 feet",
+        "1 foot",
+        "6 inch"
+      ],
+      "answer": 0,
+      "explanation": "Nếu không thể cho 3 feet, không vượt.",
+      "page": "48",
+      "tags": [
+        "3 feet"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "3 feet",
+      "chapterTitle": "Luật và nguyên tắc khi đi đường"
+    },
+    {
+      "id": "q7_036",
+      "chapter": 7,
+      "prompt": "Trong khu công trường, bạn nên làm gì?",
+      "choices": [
+        "Giữ tốc độ dù làn hẹp",
+        "Dừng lại xem công việc",
+        "Giảm tốc, tăng khoảng cách và tuân người cầm cờ"
+      ],
+      "answer": 2,
+      "explanation": "Khu công trường có người và thiết bị dễ bị tổn thương.",
+      "page": "49",
+      "tags": [
+        "công trường"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Giảm tốc, tăng khoảng cách và tuân người cầm cờ",
+      "chapterTitle": "Luật và nguyên tắc khi đi đường"
+    },
+    {
+      "id": "q7_037",
+      "chapter": 7,
+      "prompt": "Theo cập nhật năm 2026, khi đến gần một xe đứng yên có đèn nguy hiểm nhấp nháy, bạn nên làm gì?",
+      "choices": [
+        "Dừng ngay trong làn",
+        "Giữ tốc độ vì không phải xe cấp cứu",
+        "Giảm tốc và chuyển làn nếu có thể làm an toàn"
+      ],
+      "answer": 2,
+      "explanation": "Luật Slow Down, Move Over đã mở rộng đến mọi xe đứng yên có thiết bị cảnh báo.",
+      "page": "49",
+      "tags": [
+        "move over"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "dmv_web",
+      "correctChoice": "Giảm tốc và chuyển làn nếu có thể làm an toàn",
+      "chapterTitle": "Luật và nguyên tắc khi đi đường"
+    },
+    {
+      "id": "q7_038",
+      "chapter": 7,
+      "prompt": "Khi xe buýt trường học nhấp nháy đèn vàng, bạn nên làm gì?",
+      "choices": [
+        "Vượt ngay trước khi đèn đỏ bật",
+        "Giảm tốc và chuẩn bị dừng",
+        "Dừng rồi đi ngay dù trẻ đang qua đường"
+      ],
+      "answer": 1,
+      "explanation": "Đèn vàng báo xe buýt sắp dừng để đón hoặc trả học sinh.",
+      "page": "50",
+      "tags": [
+        "xe buýt trường học"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Giảm tốc và chuẩn bị dừng",
+      "chapterTitle": "Luật và nguyên tắc khi đi đường"
+    },
+    {
+      "id": "q7_039",
+      "chapter": 7,
+      "prompt": "Khi xe buýt trường học nhấp nháy đèn đỏ, bạn phải dừng cho đến khi nào?",
+      "choices": [
+        "Đèn ngừng nhấp nháy và trẻ em đã an toàn",
+        "Chỉ 5 giây",
+        "Xe phía sau bấm còi"
+      ],
+      "answer": 0,
+      "explanation": "Không đi tiếp cho đến khi tín hiệu tắt và đường an toàn.",
+      "page": "51",
+      "tags": [
+        "xe buýt trường học"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Đèn ngừng nhấp nháy và trẻ em đã an toàn",
+      "chapterTitle": "Luật và nguyên tắc khi đi đường"
+    },
+    {
+      "id": "q7_040",
+      "chapter": 7,
+      "prompt": "Khi xe buýt trường học ở phía đối diện của đường có dải phân cách, bạn có phải dừng không?",
+      "choices": [
+        "Chỉ xe tải phải dừng",
+        "Không, nếu bạn ở phía đối diện của đường được phân cách đúng nghĩa",
+        "Có, trong mọi trường hợp"
+      ],
+      "answer": 1,
+      "explanation": "Ngoại lệ áp dụng cho đường cao tốc có dải phân cách hoặc đường nhiều làn theo mô tả.",
+      "page": "51",
+      "tags": [
+        "xe buýt trường học"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Không, nếu bạn ở phía đối diện của đường được phân cách đúng nghĩa",
+      "chapterTitle": "Luật và nguyên tắc khi đi đường"
+    },
+    {
+      "id": "q7_041",
+      "chapter": 7,
+      "prompt": "Giới hạn tốc độ hiện hành thường gặp trong vòng 500 feet của trường khi có trẻ em là bao nhiêu?",
+      "choices": [
+        "25 mph, trừ khi biển báo thấp hơn",
+        "20 mph đã áp dụng toàn tiểu bang từ năm 2026",
+        "35 mph"
+      ],
+      "answer": 0,
+      "explanation": "Mốc 20 mph theo luật mới bắt đầu năm 2031, không phải hiện tại.",
+      "page": "50",
+      "tags": [
+        "trường học"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "25 mph, trừ khi biển báo thấp hơn",
+      "chapterTitle": "Luật và nguyên tắc khi đi đường"
+    },
+    {
+      "id": "q7_042",
+      "chapter": 7,
+      "prompt": "Giới hạn tốc độ trong hẻm là bao nhiêu?",
+      "choices": [
+        "15 mph",
+        "5 mph",
+        "25 mph"
+      ],
+      "answer": 0,
+      "explanation": "Hẻm có giới hạn 15 mph.",
+      "page": "52",
+      "tags": [
+        "15 mph"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "15 mph",
+      "chapterTitle": "Luật và nguyên tắc khi đi đường"
+    },
+    {
+      "id": "q7_043",
+      "chapter": 7,
+      "prompt": "Tại giao lộ không có biển STOP ở bất kỳ góc nào và bị khuất tầm nhìn, giới hạn tốc độ là bao nhiêu?",
+      "choices": [
+        "35 mph",
+        "15 mph",
+        "25 mph"
+      ],
+      "answer": 1,
+      "explanation": "DMV định nghĩa giao lộ khuất là giao lộ không có biển STOP ở bất kỳ góc nào. Khi tầm nhìn bị che, giới hạn là 15 mph.",
+      "page": "52",
+      "tags": [
+        "15 mph"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "15 mph",
+      "chapterTitle": "Luật và nguyên tắc khi đi đường"
+    },
+    {
+      "id": "q7_044",
+      "chapter": 7,
+      "prompt": "Khi ở trong vòng 100 feet của đường sắt và không nhìn thấy đường ray 400 feet theo cả hai hướng, tốc độ tối đa thường là bao nhiêu?",
+      "choices": [
+        "15 mph",
+        "25 mph",
+        "5 mph"
+      ],
+      "answer": 0,
+      "explanation": "Giới hạn là 15 mph trong điều kiện tầm nhìn này. Có thể chạy nhanh hơn 15 mph khi giao cắt được kiểm soát bằng cổng, tín hiệu cảnh báo hoặc người báo hiệu.",
+      "page": "52",
+      "tags": [
+        "đường sắt"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "15 mph",
+      "chapterTitle": "Luật và nguyên tắc khi đi đường"
+    },
+    {
+      "id": "q7_045",
+      "chapter": 7,
+      "prompt": "Khi phải dừng vì tàu, bạn phải dừng cách ray gần nhất ít nhất bao nhiêu?",
+      "choices": [
+        "15 feet",
+        "5 feet",
+        "50 feet"
+      ],
+      "answer": 0,
+      "explanation": "Mốc tối thiểu là 15 feet.",
+      "page": "52",
+      "tags": [
+        "đường sắt"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "15 feet",
+      "chapterTitle": "Luật và nguyên tắc khi đi đường"
+    },
+    {
+      "id": "q7_046",
+      "chapter": 7,
+      "prompt": "Giới hạn tốc độ thường gặp trong khu kinh doanh hoặc dân cư là bao nhiêu nếu không có biển khác?",
+      "choices": [
+        "15 mph",
+        "45 mph",
+        "25 mph"
+      ],
+      "answer": 2,
+      "explanation": "Mặc định thường là 25 mph.",
+      "page": "52",
+      "tags": [
+        "25 mph"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "25 mph",
+      "chapterTitle": "Luật và nguyên tắc khi đi đường"
+    },
+    {
+      "id": "q7_047",
+      "chapter": 7,
+      "prompt": "Hàng hóa nhô hơn 4 feet phía sau xe ban ngày cần gì?",
+      "choices": [
+        "Cờ vuông đỏ hoặc cam phản quang 12 inch",
+        "Đèn xanh nhấp nháy",
+        "Không cần đánh dấu"
+      ],
+      "answer": 0,
+      "explanation": "Ban đêm cần đèn đánh dấu phù hợp.",
+      "page": "52",
+      "tags": [
+        "hàng hóa"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Cờ vuông đỏ hoặc cam phản quang 12 inch",
+      "chapterTitle": "Luật và nguyên tắc khi đi đường"
+    },
+    {
+      "id": "q7_048",
+      "chapter": 7,
+      "prompt": "Hút thuốc khi có trẻ vị thành niên trong xe có hợp pháp không?",
+      "choices": [
+        "Có, nếu mở cửa sổ",
+        "Có, nếu xe đang đỗ",
+        "Không"
+      ],
+      "answer": 2,
+      "explanation": "Sổ tay nêu có thể bị phạt.",
+      "page": "52",
+      "tags": [
+        "hút thuốc"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Không",
+      "chapterTitle": "Luật và nguyên tắc khi đi đường"
+    },
+    {
+      "id": "q7_049",
+      "chapter": 7,
+      "prompt": "Người lái trưởng thành có thể bị coi là cẩu thả với bao nhiêu điểm trong 12 tháng?",
+      "choices": [
+        "10 điểm",
+        "2 điểm",
+        "4 điểm"
+      ],
+      "answer": 2,
+      "explanation": "Ngưỡng là 4 trong 12, 6 trong 24 hoặc 8 trong 36 tháng.",
+      "page": "54",
+      "tags": [
+        "điểm"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "4 điểm",
+      "chapterTitle": "Luật và nguyên tắc khi đi đường"
+    },
+    {
+      "id": "q7_050",
+      "chapter": 7,
+      "prompt": "Thông tin nào thường không công khai trong hồ sơ lái xe?",
+      "choices": [
+        "Mọi kết án giao thông",
+        "Ngày cấp giấy phép",
+        "Địa chỉ, số An sinh Xã hội và tình trạng thể chất hoặc tinh thần"
+      ],
+      "answer": 2,
+      "explanation": "Những thông tin nhạy cảm này được loại khỏi phần công khai.",
+      "page": "56",
+      "tags": [
+        "riêng tư"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Địa chỉ, số An sinh Xã hội và tình trạng thể chất hoặc tinh thần",
+      "chapterTitle": "Luật và nguyên tắc khi đi đường"
+    },
+    {
+      "id": "q8_001",
+      "chapter": 8,
+      "prompt": "Bạn nên quét đường ít nhất bao xa theo thời gian về phía trước?",
+      "choices": [
+        "3 giây",
+        "10 giây",
+        "30 giây"
+      ],
+      "answer": 1,
+      "explanation": "Quét ít nhất 10 giây phía trước giúp nhận biết nguy hiểm sớm.",
+      "page": "57",
+      "tags": [
+        "10 giây"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "10 giây",
+      "chapterTitle": "Lái xe an toàn"
+    },
+    {
+      "id": "q8_002",
+      "chapter": 8,
+      "prompt": "Khoảng cách theo sau tối thiểu trong điều kiện tốt thường là bao nhiêu?",
+      "choices": [
+        "3 giây",
+        "5 giây bắt buộc trong mọi tình huống",
+        "1 giây"
+      ],
+      "answer": 0,
+      "explanation": "Quy tắc ba giây là mức tối thiểu; tăng thêm khi điều kiện xấu.",
+      "page": "57",
+      "tags": [
+        "3 giây"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "3 giây",
+      "chapterTitle": "Lái xe an toàn"
+    },
+    {
+      "id": "q8_003",
+      "chapter": 8,
+      "prompt": "Bộ học này dùng khoảng cách nào khi theo sau xe mô tô?",
+      "choices": [
+        "1 giây nếu đội mũ bảo hiểm",
+        "Ít nhất 3 giây trong điều kiện tốt, tăng thêm khi cần",
+        "Luôn đúng 4 giây vì bản dịch Việt ghi vậy"
+      ],
+      "answer": 1,
+      "explanation": "Bản tiếng Anh chính thức và quy tắc chung DMV ghi ba giây; bản Việt có một lỗi dịch ghi bốn giây.",
+      "page": "57",
+      "tags": [
+        "hiệu chỉnh dịch"
+      ],
+      "difficulty": 3,
+      "image": null,
+      "sourceType": "handbook_correction",
+      "correctChoice": "Ít nhất 3 giây trong điều kiện tốt, tăng thêm khi cần",
+      "chapterTitle": "Lái xe an toàn"
+    },
+    {
+      "id": "q8_004",
+      "chapter": 8,
+      "prompt": "Bạn nên làm gì khi đang ở điểm mù của xe khác?",
+      "choices": [
+        "Bấm còi liên tục",
+        "Giữ nguyên vị trí thật lâu",
+        "Tăng hoặc giảm tốc để thoát khỏi điểm mù khi an toàn"
+      ],
+      "answer": 2,
+      "explanation": "Tránh chạy song song hoặc ở nơi người lái khác khó thấy.",
+      "page": "58",
+      "tags": [
+        "điểm mù"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Tăng hoặc giảm tốc để thoát khỏi điểm mù khi an toàn",
+      "chapterTitle": "Lái xe an toàn"
+    },
+    {
+      "id": "q8_005",
+      "chapter": 8,
+      "prompt": "Khi nào cần kiểm tra giao thông phía sau?",
+      "choices": [
+        "Chỉ sau khi đã bắt đầu chuyển làn",
+        "Trước khi đổi làn, giảm tốc, lùi hoặc xuống dốc dài",
+        "Chỉ khi đỗ xe"
+      ],
+      "answer": 1,
+      "explanation": "Kiểm tra gương và nhìn qua vai đúng lúc giúp tránh va chạm phía sau.",
+      "page": "59",
+      "tags": [
+        "quan sát"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Trước khi đổi làn, giảm tốc, lùi hoặc xuống dốc dài",
+      "chapterTitle": "Lái xe an toàn"
+    },
+    {
+      "id": "q8_006",
+      "chapter": 8,
+      "prompt": "Ban đêm, tốc độ an toàn bị giới hạn bởi điều gì?",
+      "choices": [
+        "Khả năng dừng trong khoảng được đèn pha chiếu sáng",
+        "Chỉ con số trên biển giới hạn",
+        "Tốc độ của xe phía trước"
+      ],
+      "answer": 0,
+      "explanation": "Không chạy nhanh hơn khả năng nhìn và dừng.",
+      "page": "59",
+      "tags": [
+        "ban đêm"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Khả năng dừng trong khoảng được đèn pha chiếu sáng",
+      "chapterTitle": "Lái xe an toàn"
+    },
+    {
+      "id": "q8_007",
+      "chapter": 8,
+      "prompt": "Trên đường ướt, sổ tay khuyên giảm khoảng bao nhiêu so với tốc độ bình thường?",
+      "choices": [
+        "1 mph",
+        "25 mph trong mọi trường hợp",
+        "5 đến 10 mph"
+      ],
+      "answer": 2,
+      "explanation": "Mức giảm phụ thuộc điều kiện, nhưng hướng dẫn là 5 đến 10 mph.",
+      "page": "60",
+      "tags": [
+        "mặt đường trơn"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "5 đến 10 mph",
+      "chapterTitle": "Lái xe an toàn"
+    },
+    {
+      "id": "q8_008",
+      "chapter": 8,
+      "prompt": "Trên tuyết đóng, nên giảm tốc độ thế nào?",
+      "choices": [
+        "Chỉ 5 mph bất kể tốc độ ban đầu",
+        "Không cần giảm nếu có ABS",
+        "Khoảng một nửa"
+      ],
+      "answer": 2,
+      "explanation": "Tuyết đóng đòi hỏi giảm mạnh tốc độ và tăng khoảng cách.",
+      "page": "60",
+      "tags": [
+        "mặt đường trơn"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Khoảng một nửa",
+      "chapterTitle": "Lái xe an toàn"
+    },
+    {
+      "id": "q8_009",
+      "chapter": 8,
+      "prompt": "Trên băng, sổ tay khuyên không lái nhanh hơn bao nhiêu?",
+      "choices": [
+        "5 mph",
+        "15 mph",
+        "25 mph"
+      ],
+      "answer": 0,
+      "explanation": "Băng rất trơn, mức hướng dẫn là không quá 5 mph.",
+      "page": "60",
+      "tags": [
+        "mặt đường trơn"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "5 mph",
+      "chapterTitle": "Lái xe an toàn"
+    },
+    {
+      "id": "q8_010",
+      "chapter": 8,
+      "prompt": "Nếu xe bắt đầu trượt nước, bạn nên làm gì?",
+      "choices": [
+        "Tăng tốc để lốp bám lại",
+        "Nhả ga từ từ, tránh phanh đột ngột và giữ hướng ổn định",
+        "Phanh gấp và bẻ lái mạnh"
+      ],
+      "answer": 1,
+      "explanation": "Thao tác đột ngột có thể làm mất kiểm soát.",
+      "page": "62",
+      "tags": [
+        "trượt nước"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Nhả ga từ từ, tránh phanh đột ngột và giữ hướng ổn định",
+      "chapterTitle": "Lái xe an toàn"
+    },
+    {
+      "id": "q8_011",
+      "chapter": 8,
+      "prompt": "Khi gặp đường ngập không rõ độ sâu, lựa chọn an toàn là gì?",
+      "choices": [
+        "Quay lại và tìm đường khác",
+        "Đi sát xe trước để dò đường",
+        "Đi nhanh để tạo đà"
+      ],
+      "answer": 0,
+      "explanation": "Nước có thể sâu hơn dự kiến và cuốn xe.",
+      "page": "63",
+      "tags": [
+        "ngập nước"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Quay lại và tìm đường khác",
+      "chapterTitle": "Lái xe an toàn"
+    },
+    {
+      "id": "q8_012",
+      "chapter": 8,
+      "prompt": "Trong sương mù dày, nên dùng loại đèn nào?",
+      "choices": [
+        "Đèn chiếu xa",
+        "Đèn chiếu gần",
+        "Chỉ đèn đỗ xe"
+      ],
+      "answer": 1,
+      "explanation": "Đèn chiếu xa phản chiếu từ sương và làm tầm nhìn kém hơn.",
+      "page": "64",
+      "tags": [
+        "sương mù"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Đèn chiếu gần",
+      "chapterTitle": "Lái xe an toàn"
+    },
+    {
+      "id": "q8_013",
+      "chapter": 8,
+      "prompt": "Nếu chỉ nhìn được 100 feet phía trước, tốc độ nào là không an toàn?",
+      "choices": [
+        "Nhanh hơn 65 mph",
+        "Nhanh hơn 30 mph",
+        "Nhanh hơn 15 mph trong mọi tình huống"
+      ],
+      "answer": 1,
+      "explanation": "Sổ tay nói không an toàn khi chạy trên 30 mph nếu tầm nhìn không quá 100 feet.",
+      "page": "64",
+      "tags": [
+        "100 feet"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Nhanh hơn 30 mph",
+      "chapterTitle": "Lái xe an toàn"
+    },
+    {
+      "id": "q8_014",
+      "chapter": 8,
+      "prompt": "Ai phải thắt dây an toàn trong xe?",
+      "choices": [
+        "Người lái và tất cả hành khách",
+        "Chỉ người ngồi ghế trước",
+        "Chỉ trẻ em"
+      ],
+      "answer": 0,
+      "explanation": "Dây an toàn áp dụng cho mọi người.",
+      "page": "65",
+      "tags": [
+        "dây an toàn"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Người lái và tất cả hành khách",
+      "chapterTitle": "Lái xe an toàn"
+    },
+    {
+      "id": "q8_015",
+      "chapter": 8,
+      "prompt": "Người lái có thể bị phạt nếu hành khách dưới bao nhiêu tuổi không thắt dây?",
+      "choices": [
+        "16 tuổi",
+        "12 tuổi",
+        "18 tuổi"
+      ],
+      "answer": 0,
+      "explanation": "Người lái chịu trách nhiệm đặc biệt đối với hành khách dưới 16 tuổi.",
+      "page": "65",
+      "tags": [
+        "dây an toàn"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "16 tuổi",
+      "chapterTitle": "Lái xe an toàn"
+    },
+    {
+      "id": "q8_016",
+      "chapter": 8,
+      "prompt": "Trẻ dưới 2 tuổi, dưới 40 pound và dưới 3 feet 4 inch thường phải ngồi thế nào?",
+      "choices": [
+        "Dùng dây đai người lớn ở ghế trước",
+        "Trong ghế an toàn quay mặt về sau",
+        "Ngồi trên lòng người lớn"
+      ],
+      "answer": 1,
+      "explanation": "Ghế quay mặt về sau áp dụng khi trẻ đáp ứng các điều kiện này, trừ ngoại lệ.",
+      "page": "66",
+      "tags": [
+        "ghế trẻ em"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Trong ghế an toàn quay mặt về sau",
+      "chapterTitle": "Lái xe an toàn"
+    },
+    {
+      "id": "q8_017",
+      "chapter": 8,
+      "prompt": "Trẻ dưới 8 tuổi và chưa cao 4 feet 9 inch thường phải dùng gì?",
+      "choices": [
+        "Chỉ dây vai ở ghế trước",
+        "Không cần thiết bị nếu chuyến đi ngắn",
+        "Ghế an toàn trẻ em hoặc booster phù hợp ở ghế sau"
+      ],
+      "answer": 2,
+      "explanation": "Theo Vehicle Code, trẻ dưới 8 tuổi nhìn chung phải dùng hệ thống giữ trẻ em ở ghế sau. Trẻ dưới 8 tuổi đã cao ít nhất 4 feet 9 inch có thể dùng dây an toàn phù hợp, và luật có một số ngoại lệ cụ thể.",
+      "page": "66",
+      "tags": [
+        "ghế trẻ em"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook_correction",
+      "correctChoice": "Ghế an toàn trẻ em hoặc booster phù hợp ở ghế sau",
+      "chapterTitle": "Lái xe an toàn"
+    },
+    {
+      "id": "q8_018",
+      "chapter": 8,
+      "prompt": "Theo luật hiện hành, khi nào trẻ có thể dùng dây an toàn phù hợp thay cho ghế trẻ em?",
+      "choices": [
+        "Khi từ 8 tuổi trở lên hoặc đã cao ít nhất 4 feet 9 inch",
+        "Khi nặng 30 pound",
+        "Khi từ 5 tuổi bất kể chiều cao"
+      ],
+      "answer": 0,
+      "explanation": "Trẻ từ 8 tuổi trở lên phải được giữ bằng ghế phù hợp hoặc dây an toàn; trẻ dưới 8 tuổi đã cao ít nhất 4 feet 9 inch cũng có thể dùng dây an toàn được cài đúng.",
+      "page": "66",
+      "tags": [
+        "ghế trẻ em"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook_correction",
+      "correctChoice": "Khi từ 8 tuổi trở lên hoặc đã cao ít nhất 4 feet 9 inch",
+      "chapterTitle": "Lái xe an toàn"
+    },
+    {
+      "id": "q8_019",
+      "chapter": 8,
+      "prompt": "Khoảng cách tối thiểu khuyến nghị giữa ngực người lái và nắp túi khí là bao nhiêu?",
+      "choices": [
+        "20 inch bắt buộc",
+        "5 inch",
+        "10 inch"
+      ],
+      "answer": 2,
+      "explanation": "Đo từ tâm vô lăng đến xương ức và vẫn phải kiểm soát xe đầy đủ.",
+      "page": "67",
+      "tags": [
+        "túi khí"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "10 inch",
+      "chapterTitle": "Lái xe an toàn"
+    },
+    {
+      "id": "q8_020",
+      "chapter": 8,
+      "prompt": "Có được để trẻ 6 tuổi một mình trong xe đang nổ máy không?",
+      "choices": [
+        "Có, nếu dưới 5 phút",
+        "Không, trừ khi có người ít nhất 12 tuổi giám sát theo điều kiện luật định",
+        "Có, nếu cửa khóa"
+      ],
+      "answer": 1,
+      "explanation": "Trẻ 6 tuổi trở xuống không được để không giám sát trong tình huống nguy hiểm hoặc xe đang chạy.",
+      "page": "67",
+      "tags": [
+        "trẻ trong xe"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Không, trừ khi có người ít nhất 12 tuổi giám sát theo điều kiện luật định",
+      "chapterTitle": "Lái xe an toàn"
+    },
+    {
+      "id": "q8_021",
+      "chapter": 8,
+      "prompt": "Luật Tốc độ Cơ bản có nghĩa gì?",
+      "choices": [
+        "Không bao giờ lái nhanh hơn mức an toàn cho điều kiện hiện tại",
+        "Luôn được chạy đúng giới hạn dù sương mù",
+        "Xe mới được phép vượt giới hạn 10 mph"
+      ],
+      "answer": 0,
+      "explanation": "Giới hạn niêm yết không bảo đảm tốc độ đó an toàn.",
+      "page": "67",
+      "tags": [
+        "tốc độ cơ bản"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Không bao giờ lái nhanh hơn mức an toàn cho điều kiện hiện tại",
+      "chapterTitle": "Lái xe an toàn"
+    },
+    {
+      "id": "q8_022",
+      "chapter": 8,
+      "prompt": "Giới hạn tối đa phổ biến trên phần lớn xa lộ California là bao nhiêu?",
+      "choices": [
+        "65 mph",
+        "75 mph",
+        "55 mph"
+      ],
+      "answer": 0,
+      "explanation": "Một số nơi có biển khác, nhưng mức phổ biến là 65 mph.",
+      "page": "67",
+      "tags": [
+        "65 mph"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "65 mph",
+      "chapterTitle": "Lái xe an toàn"
+    },
+    {
+      "id": "q8_023",
+      "chapter": 8,
+      "prompt": "Trên đường hai làn không có dải phân cách, giới hạn thường là bao nhiêu?",
+      "choices": [
+        "45 mph",
+        "55 mph",
+        "65 mph"
+      ],
+      "answer": 1,
+      "explanation": "55 mph cũng thường áp dụng khi kéo rơ moóc.",
+      "page": "67",
+      "tags": [
+        "55 mph"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "55 mph",
+      "chapterTitle": "Lái xe an toàn"
+    },
+    {
+      "id": "q8_024",
+      "chapter": 8,
+      "prompt": "Khi hai bên đường đều có nguy hiểm, nên dành nhiều khoảng trống hơn cho điều gì?",
+      "choices": [
+        "Bên trái trong mọi trường hợp",
+        "Bên phải trong mọi trường hợp",
+        "Mối nguy hiểm lớn hơn"
+      ],
+      "answer": 2,
+      "explanation": "Đánh giá mức độ và ưu tiên khoảng trống cho nguy cơ nghiêm trọng hơn.",
+      "page": "68",
+      "tags": [
+        "mối nguy"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Mối nguy hiểm lớn hơn",
+      "chapterTitle": "Lái xe an toàn"
+    },
+    {
+      "id": "q8_025",
+      "chapter": 8,
+      "prompt": "Nếu nổ lốp, bạn nên làm gì trước?",
+      "choices": [
+        "Phanh gấp ngay",
+        "Bẻ lái mạnh về lề",
+        "Giữ chắc vô lăng và nhả ga từ từ"
+      ],
+      "answer": 2,
+      "explanation": "Không phản ứng đột ngột; để xe giảm tốc rồi tấp an toàn.",
+      "page": "68",
+      "tags": [
+        "nổ lốp"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Giữ chắc vô lăng và nhả ga từ từ",
+      "chapterTitle": "Lái xe an toàn"
+    },
+    {
+      "id": "q8_026",
+      "chapter": 8,
+      "prompt": "Nếu chân ga bị kẹt, thao tác phù hợp là gì?",
+      "choices": [
+        "Chuyển sang số P",
+        "Tắt máy ngay khi đang chạy tốc độ cao và khóa vô lăng",
+        "Chuyển về số N, phanh và tấp an toàn"
+      ],
+      "answer": 2,
+      "explanation": "Số N ngắt lực kéo; sau đó phanh và ra khỏi dòng xe.",
+      "page": "68",
+      "tags": [
+        "chân ga kẹt"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Chuyển về số N, phanh và tấp an toàn",
+      "chapterTitle": "Lái xe an toàn"
+    },
+    {
+      "id": "q8_027",
+      "chapter": 8,
+      "prompt": "Nếu xe rơi xuống nước, nên làm gì?",
+      "choices": [
+        "Tháo dây và thoát qua cửa sổ càng sớm càng tốt",
+        "Gọi cứu hộ trước khi tháo dây",
+        "Chờ xe chìm hoàn toàn rồi mở cửa"
+      ],
+      "answer": 0,
+      "explanation": "Áp lực nước có thể làm cửa khó mở; ưu tiên thoát nhanh.",
+      "page": "69",
+      "tags": [
+        "xe xuống nước"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Tháo dây và thoát qua cửa sổ càng sớm càng tốt",
+      "chapterTitle": "Lái xe an toàn"
+    },
+    {
+      "id": "q8_028",
+      "chapter": 8,
+      "prompt": "Điện thoại cầm tay khi lái xe được xử lý thế nào?",
+      "choices": [
+        "Được phép nếu chỉ gọi dưới một phút",
+        "Không an toàn và bất hợp pháp",
+        "Được phép dưới 25 mph"
+      ],
+      "answer": 1,
+      "explanation": "Người lớn nên dùng rảnh tay khi cần.",
+      "page": "70",
+      "tags": [
+        "điện thoại"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Không an toàn và bất hợp pháp",
+      "chapterTitle": "Lái xe an toàn"
+    },
+    {
+      "id": "q8_029",
+      "chapter": 8,
+      "prompt": "Điện thoại gắn đúng chỗ có thể được thao tác thế nào?",
+      "choices": [
+        "Gõ tin nhắn đầy đủ",
+        "Một lần vuốt hoặc chạm",
+        "Cầm lên để chọn ứng dụng"
+      ],
+      "answer": 1,
+      "explanation": "Thiết bị không được cản tầm nhìn.",
+      "page": "71",
+      "tags": [
+        "điện thoại"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Một lần vuốt hoặc chạm",
+      "chapterTitle": "Lái xe an toàn"
+    },
+    {
+      "id": "q8_030",
+      "chapter": 8,
+      "prompt": "Người dưới 18 tuổi có được dùng điện thoại rảnh tay khi lái không?",
+      "choices": [
+        "Có, nếu phụ huynh gọi",
+        "Có, luôn được phép",
+        "Không, trừ khi gọi hỗ trợ khẩn cấp"
+      ],
+      "answer": 2,
+      "explanation": "Lệnh cấm với người vị thành niên rộng hơn người lớn.",
+      "page": "71",
+      "tags": [
+        "vị thành niên",
+        "điện thoại"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Không, trừ khi gọi hỗ trợ khẩn cấp",
+      "chapterTitle": "Lái xe an toàn"
+    },
+    {
+      "id": "q8_031",
+      "chapter": 8,
+      "prompt": "Carbon monoxide có đặc điểm nào?",
+      "choices": [
+        "Có màu xanh dễ nhận biết",
+        "Chỉ có trong xe điện",
+        "Không mùi và có thể gây chết"
+      ],
+      "answer": 2,
+      "explanation": "Xe chạy xăng tạo khí CO từ ống xả.",
+      "page": "71",
+      "tags": [
+        "carbon monoxide"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Không mùi và có thể gây chết",
+      "chapterTitle": "Lái xe an toàn"
+    },
+    {
+      "id": "q8_032",
+      "chapter": 8,
+      "prompt": "Có nên khởi động xe xăng trong nhà để xe đóng kín không?",
+      "choices": [
+        "Không",
+        "Có, nếu bật đèn pha",
+        "Có, nếu chỉ một phút"
+      ],
+      "answer": 0,
+      "explanation": "Khí CO có thể tích tụ rất nhanh.",
+      "page": "71",
+      "tags": [
+        "carbon monoxide"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Không",
+      "chapterTitle": "Lái xe an toàn"
+    },
+    {
+      "id": "q8_033",
+      "chapter": 8,
+      "prompt": "Khi mặt đường trơn, khoảng cách theo sau nên thay đổi thế nào?",
+      "choices": [
+        "Giảm xuống để xe khác không chen",
+        "Giữ đúng 3 giây bất kể điều kiện",
+        "Tăng lên"
+      ],
+      "answer": 2,
+      "explanation": "Ba giây là tối thiểu trong điều kiện tốt; cần thêm thời gian khi trơn.",
+      "page": "60",
+      "tags": [
+        "khoảng cách"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Tăng lên",
+      "chapterTitle": "Lái xe an toàn"
+    },
+    {
+      "id": "q8_034",
+      "chapter": 8,
+      "prompt": "Khi lái vào ban đêm trên đường nông thôn vắng, có thể dùng đèn chiếu xa khi nào?",
+      "choices": [
+        "Chỉ trong sương mù",
+        "Trong mọi lúc, kể cả sát xe khác",
+        "Khi không làm chói xe ngược chiều hoặc xe phía trước"
+      ],
+      "answer": 2,
+      "explanation": "Phải hạ đèn theo khoảng cách quy định.",
+      "page": "59",
+      "tags": [
+        "ban đêm"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Khi không làm chói xe ngược chiều hoặc xe phía trước",
+      "chapterTitle": "Lái xe an toàn"
+    },
+    {
+      "id": "q8_035",
+      "chapter": 8,
+      "prompt": "Điểm mù nên được kiểm tra bằng cách nào trước khi đổi làn?",
+      "choices": [
+        "Chỉ nhìn camera",
+        "Quay đầu nhìn nhanh qua vai ngoài việc xem gương",
+        "Chỉ nghe tiếng xe"
+      ],
+      "answer": 1,
+      "explanation": "Gương không bao phủ hết điểm mù.",
+      "page": "58",
+      "tags": [
+        "điểm mù"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Quay đầu nhìn nhanh qua vai ngoài việc xem gương",
+      "chapterTitle": "Lái xe an toàn"
+    },
+    {
+      "id": "q9_001",
+      "chapter": 9,
+      "prompt": "Giới hạn BAC bất hợp pháp đối với người từ 21 tuổi trở lên là bao nhiêu?",
+      "choices": [
+        "0,15% trở lên",
+        "0,08% trở lên",
+        "0,01% trở lên"
+      ],
+      "answer": 1,
+      "explanation": "Ngưỡng theo luật là 0,08%, nhưng vẫn có thể bị DUI dưới ngưỡng nếu bị suy giảm.",
+      "page": "72",
+      "tags": [
+        "BAC"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "0,08% trở lên",
+      "chapterTitle": "Rượu bia và ma túy"
+    },
+    {
+      "id": "q9_002",
+      "chapter": 9,
+      "prompt": "Giới hạn BAC đối với người dưới 21 tuổi là bao nhiêu?",
+      "choices": [
+        "0,04% trở lên",
+        "0,01% trở lên",
+        "0,08% trở lên"
+      ],
+      "answer": 1,
+      "explanation": "California áp dụng luật không dung thứ ở mức 0,01%.",
+      "page": "72",
+      "tags": [
+        "BAC"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "0,01% trở lên",
+      "chapterTitle": "Rượu bia và ma túy"
+    },
+    {
+      "id": "q9_003",
+      "chapter": 9,
+      "prompt": "Giới hạn BAC đối với người đang thử việc DUI là bao nhiêu?",
+      "choices": [
+        "0,08% trở lên",
+        "0,10% trở lên",
+        "0,01% trở lên"
+      ],
+      "answer": 2,
+      "explanation": "Mốc 0,01% áp dụng ở mọi tuổi trong thời gian thử việc DUI.",
+      "page": "72",
+      "tags": [
+        "BAC"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "0,01% trở lên",
+      "chapterTitle": "Rượu bia và ma túy"
+    },
+    {
+      "id": "q9_004",
+      "chapter": 9,
+      "prompt": "Giới hạn BAC đối với người lái xe thương mại là bao nhiêu?",
+      "choices": [
+        "0,01% trở lên trong mọi trường hợp",
+        "0,08% trở lên",
+        "0,04% trở lên"
+      ],
+      "answer": 2,
+      "explanation": "Ngưỡng thương mại là 0,04%.",
+      "page": "72",
+      "tags": [
+        "BAC"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "0,04% trở lên",
+      "chapterTitle": "Rượu bia và ma túy"
+    },
+    {
+      "id": "q9_005",
+      "chapter": 9,
+      "prompt": "Bạn có thể bị bắt DUI khi BAC dưới 0,08% không?",
+      "choices": [
+        "Không bao giờ",
+        "Có, nếu rượu hoặc chất khác làm suy giảm khả năng lái",
+        "Chỉ nếu dưới 18 tuổi"
+      ],
+      "answer": 1,
+      "explanation": "Ngưỡng số không phải là quyền được lái khi đã bị suy giảm.",
+      "page": "72",
+      "tags": [
+        "DUI"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Có, nếu rượu hoặc chất khác làm suy giảm khả năng lái",
+      "chapterTitle": "Rượu bia và ma túy"
+    },
+    {
+      "id": "q9_006",
+      "chapter": 9,
+      "prompt": "Hộp rượu đã mở nên được cất ở đâu trong xe?",
+      "choices": [
+        "Dưới ghế người lái",
+        "Trong cốp hoặc khu vực không dành cho hành khách",
+        "Trong ngăn đựng găng tay"
+      ],
+      "answer": 1,
+      "explanation": "Khoang hành khách và ngăn găng tay không phải nơi hợp lệ cho hộp mở.",
+      "page": "72",
+      "tags": [
+        "hộp mở"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Trong cốp hoặc khu vực không dành cho hành khách",
+      "chapterTitle": "Rượu bia và ma túy"
+    },
+    {
+      "id": "q9_007",
+      "chapter": 9,
+      "prompt": "Cần sa hoặc thuốc kê đơn có thể dẫn đến DUI không?",
+      "choices": [
+        "Chỉ thuốc không kê đơn mới tính",
+        "Có, nếu làm suy giảm khả năng lái",
+        "Không, vì không phải rượu"
+      ],
+      "answer": 1,
+      "explanation": "DUI áp dụng cho nhiều chất, không chỉ rượu.",
+      "page": "73",
+      "tags": [
+        "ma túy"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Có, nếu làm suy giảm khả năng lái",
+      "chapterTitle": "Rượu bia và ma túy"
+    },
+    {
+      "id": "q9_008",
+      "chapter": 9,
+      "prompt": "Luật đồng ý ngầm có nghĩa gì sau khi bị bắt hợp pháp vì DUI?",
+      "choices": [
+        "Phải làm xét nghiệm hóa học máu hoặc hơi thở theo yêu cầu",
+        "Chỉ phải kiểm tra thị lực",
+        "Được quyền từ chối mà không có hậu quả hành chính"
+      ],
+      "answer": 0,
+      "explanation": "Từ chối có thể dẫn đến đình chỉ hoặc thu hồi quyền lái.",
+      "page": "73",
+      "tags": [
+        "đồng ý ngầm"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Phải làm xét nghiệm hóa học máu hoặc hơi thở theo yêu cầu",
+      "chapterTitle": "Rượu bia và ma túy"
+    },
+    {
+      "id": "q9_009",
+      "chapter": 9,
+      "prompt": "Giấy phép tạm thời được cấp sau vụ bắt DUI thường có hiệu lực bao lâu?",
+      "choices": [
+        "10 ngày",
+        "30 ngày",
+        "90 ngày"
+      ],
+      "answer": 1,
+      "explanation": "Tài xế cần chú ý cả thời hạn yêu cầu điều trần.",
+      "page": "74",
+      "tags": [
+        "DUI"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "30 ngày",
+      "chapterTitle": "Rượu bia và ma túy"
+    },
+    {
+      "id": "q9_010",
+      "chapter": 9,
+      "prompt": "Muốn yêu cầu điều trần hành chính sau vụ bắt DUI, thường phải làm trong bao lâu?",
+      "choices": [
+        "10 ngày",
+        "30 ngày",
+        "Một năm"
+      ],
+      "answer": 0,
+      "explanation": "Mốc yêu cầu là 10 ngày kể từ ngày bị bắt.",
+      "page": "74",
+      "tags": [
+        "DUI"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "10 ngày",
+      "chapterTitle": "Rượu bia và ma túy"
+    },
+    {
+      "id": "q9_011",
+      "chapter": 9,
+      "prompt": "Kết án DUI ở lại hồ sơ lái xe bao lâu?",
+      "choices": [
+        "3 năm",
+        "10 năm",
+        "Vĩnh viễn trong mọi trường hợp"
+      ],
+      "answer": 1,
+      "explanation": "Sổ tay nêu 10 năm.",
+      "page": "74",
+      "tags": [
+        "10 năm"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "10 năm",
+      "chapterTitle": "Rượu bia và ma túy"
+    },
+    {
+      "id": "q9_012",
+      "chapter": 9,
+      "prompt": "Người dưới 21 tuổi có BAC 0,01% trở lên có thể bị gì?",
+      "choices": [
+        "Chỉ cảnh cáo bằng lời",
+        "Tự động cấp bằng hạn chế mà không xử lý",
+        "DMV đình chỉ hoặc thu hồi quyền lái"
+      ],
+      "answer": 2,
+      "explanation": "Luật không dung thứ có hậu quả hành chính.",
+      "page": "75",
+      "tags": [
+        "dưới 21"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "DMV đình chỉ hoặc thu hồi quyền lái",
+      "chapterTitle": "Rượu bia và ma túy"
+    },
+    {
+      "id": "q9_013",
+      "chapter": 9,
+      "prompt": "Nếu PAS của người dưới 21 tuổi cho thấy BAC 0,05% trở lên, cảnh sát có thể làm gì?",
+      "choices": [
+        "Cho lái về nhà ngay",
+        "Chỉ tịch thu chìa khóa một giờ",
+        "Yêu cầu xét nghiệm máu hoặc hơi thở tiếp theo"
+      ],
+      "answer": 2,
+      "explanation": "Một xét nghiệm hóa học tiếp theo có thể được yêu cầu.",
+      "page": "75",
+      "tags": [
+        "dưới 21"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Yêu cầu xét nghiệm máu hoặc hơi thở tiếp theo",
+      "chapterTitle": "Rượu bia và ma túy"
+    },
+    {
+      "id": "q10_001",
+      "chapter": 10,
+      "prompt": "Mức bảo hiểm trách nhiệm tối thiểu cho thương tích hoặc tử vong của một người là bao nhiêu?",
+      "choices": [
+        "$15.000",
+        "$60.000",
+        "$30.000"
+      ],
+      "answer": 2,
+      "explanation": "Cách nhớ là 30/60/15.",
+      "page": "76",
+      "tags": [
+        "30/60/15"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "$30.000",
+      "chapterTitle": "Trách nhiệm tài chính, bảo hiểm và va chạm"
+    },
+    {
+      "id": "q10_002",
+      "chapter": 10,
+      "prompt": "Mức tối thiểu cho thương tích hoặc tử vong của nhiều hơn một người là bao nhiêu?",
+      "choices": [
+        "$30.000",
+        "$60.000",
+        "$15.000"
+      ],
+      "answer": 1,
+      "explanation": "Mức tổng cho nhiều người là 60.000 đô la.",
+      "page": "76",
+      "tags": [
+        "30/60/15"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "$60.000",
+      "chapterTitle": "Trách nhiệm tài chính, bảo hiểm và va chạm"
+    },
+    {
+      "id": "q10_003",
+      "chapter": 10,
+      "prompt": "Mức tối thiểu cho thiệt hại tài sản là bao nhiêu?",
+      "choices": [
+        "$60.000",
+        "$15.000",
+        "$30.000"
+      ],
+      "answer": 1,
+      "explanation": "Thiệt hại tài sản là 15.000 đô la.",
+      "page": "76",
+      "tags": [
+        "30/60/15"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "$15.000",
+      "chapterTitle": "Trách nhiệm tài chính, bảo hiểm và va chạm"
+    },
+    {
+      "id": "q10_004",
+      "chapter": 10,
+      "prompt": "Bằng chứng bảo hiểm nên ở đâu?",
+      "choices": [
+        "Trong xe và sẵn sàng xuất trình khi được yêu cầu",
+        "Chỉ ở nhà",
+        "Chỉ lưu trong hồ sơ của đại lý"
+      ],
+      "answer": 0,
+      "explanation": "Người lái phải mang bằng chứng trách nhiệm tài chính.",
+      "page": "76",
+      "tags": [
+        "bảo hiểm"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Trong xe và sẵn sàng xuất trình khi được yêu cầu",
+      "chapterTitle": "Trách nhiệm tài chính, bảo hiểm và va chạm"
+    },
+    {
+      "id": "q10_005",
+      "chapter": 10,
+      "prompt": "Nếu va chạm mà không có bảo hiểm phù hợp, quyền lái có thể bị đình chỉ tối đa bao lâu?",
+      "choices": [
+        "10 năm bắt buộc",
+        "30 ngày",
+        "4 năm"
+      ],
+      "answer": 2,
+      "explanation": "Việc ai có lỗi không loại bỏ hậu quả thiếu bảo hiểm.",
+      "page": "76",
+      "tags": [
+        "không bảo hiểm"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "4 năm",
+      "chapterTitle": "Trách nhiệm tài chính, bảo hiểm và va chạm"
+    },
+    {
+      "id": "q10_006",
+      "chapter": 10,
+      "prompt": "Sau một va chạm, hành động bắt buộc đầu tiên là gì?",
+      "choices": [
+        "Dừng lại",
+        "Rời đi nếu thiệt hại nhỏ",
+        "Chỉ gọi công ty bảo hiểm rồi tiếp tục"
+      ],
+      "answer": 0,
+      "explanation": "Rời hiện trường có thể bị coi là bỏ chạy.",
+      "page": "77",
+      "tags": [
+        "bỏ chạy"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Dừng lại",
+      "chapterTitle": "Trách nhiệm tài chính, bảo hiểm và va chạm"
+    },
+    {
+      "id": "q10_007",
+      "chapter": 10,
+      "prompt": "Nếu có người bị thương hoặc chết, phải báo cơ quan thực thi pháp luật trong bao lâu?",
+      "choices": [
+        "10 ngày",
+        "24 giờ",
+        "72 giờ"
+      ],
+      "answer": 1,
+      "explanation": "Đây là báo cáo cho cơ quan thực thi pháp luật, khác SR 1 cho DMV.",
+      "page": "77",
+      "tags": [
+        "24 giờ"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "24 giờ",
+      "chapterTitle": "Trách nhiệm tài chính, bảo hiểm và va chạm"
+    },
+    {
+      "id": "q10_008",
+      "chapter": 10,
+      "prompt": "Nếu đâm xe đang đỗ và không tìm thấy chủ, nên làm gì?",
+      "choices": [
+        "Chỉ chụp ảnh rồi đi",
+        "Để lại giấy có tên, địa chỉ, số điện thoại và báo cơ quan phù hợp",
+        "Rời đi vì không có ai chứng kiến"
+      ],
+      "answer": 1,
+      "explanation": "Phải để thông tin liên lạc an toàn trên xe hoặc tài sản.",
+      "page": "77",
+      "tags": [
+        "tài sản"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Để lại giấy có tên, địa chỉ, số điện thoại và báo cơ quan phù hợp",
+      "chapterTitle": "Trách nhiệm tài chính, bảo hiểm và va chạm"
+    },
+    {
+      "id": "q10_009",
+      "chapter": 10,
+      "prompt": "Nếu đâm phải động vật bị thương, bạn nên làm gì?",
+      "choices": [
+        "Để con vật trong làn xe",
+        "Gọi cơ quan nhân đạo, cảnh sát hoặc CHP và không tự di chuyển con vật",
+        "Tự kéo con vật bằng tay"
+      ],
+      "answer": 1,
+      "explanation": "Động vật bị thương có thể nguy hiểm và cần người chuyên môn.",
+      "page": "77",
+      "tags": [
+        "động vật"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Gọi cơ quan nhân đạo, cảnh sát hoặc CHP và không tự di chuyển con vật",
+      "chapterTitle": "Trách nhiệm tài chính, bảo hiểm và va chạm"
+    },
+    {
+      "id": "q10_010",
+      "chapter": 10,
+      "prompt": "Khi nào phải nộp SR 1 cho DMV?",
+      "choices": [
+        "Trong 10 ngày nếu thiệt hại hơn $1.000 hoặc có người bị thương hay chết",
+        "Chỉ khi bạn có lỗi",
+        "Chỉ khi xe bị kéo"
+      ],
+      "answer": 0,
+      "explanation": "Ngưỡng và thương tích kích hoạt nghĩa vụ báo cáo.",
+      "page": "78",
+      "tags": [
+        "SR 1"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Trong 10 ngày nếu thiệt hại hơn $1.000 hoặc có người bị thương hay chết",
+      "chapterTitle": "Trách nhiệm tài chính, bảo hiểm và va chạm"
+    },
+    {
+      "id": "q10_011",
+      "chapter": 10,
+      "prompt": "Ai phải nộp SR 1 khi đủ điều kiện báo cáo?",
+      "choices": [
+        "Mỗi người lái liên quan",
+        "Chỉ người bị cảnh sát xác định có lỗi",
+        "Chỉ công ty bảo hiểm"
+      ],
+      "answer": 0,
+      "explanation": "Mỗi tài xế có trách nhiệm báo cáo độc lập.",
+      "page": "78",
+      "tags": [
+        "SR 1"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Mỗi người lái liên quan",
+      "chapterTitle": "Trách nhiệm tài chính, bảo hiểm và va chạm"
+    },
+    {
+      "id": "q10_012",
+      "chapter": 10,
+      "prompt": "Va chạm trên tài sản tư nhân có thể vẫn phải báo SR 1 không?",
+      "choices": [
+        "Chỉ nếu có xe thương mại",
+        "Không bao giờ",
+        "Có"
+      ],
+      "answer": 2,
+      "explanation": "Yêu cầu có thể áp dụng dù va chạm không xảy ra trên đường công cộng.",
+      "page": "78",
+      "tags": [
+        "SR 1"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Có",
+      "chapterTitle": "Trách nhiệm tài chính, bảo hiểm và va chạm"
+    },
+    {
+      "id": "q11_001",
+      "chapter": 11,
+      "prompt": "Sau khi mua xe, người mua có bao lâu để chuyển quyền sở hữu?",
+      "choices": [
+        "10 ngày",
+        "20 ngày",
+        "5 ngày"
+      ],
+      "answer": 0,
+      "explanation": "Người mua có 10 ngày.",
+      "page": "79",
+      "tags": [
+        "10 ngày"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "10 ngày",
+      "chapterTitle": "Yêu cầu đăng ký phương tiện"
+    },
+    {
+      "id": "q11_002",
+      "chapter": 11,
+      "prompt": "Sau khi bán xe, người bán có bao lâu để báo DMV?",
+      "choices": [
+        "5 ngày",
+        "10 ngày",
+        "30 ngày"
+      ],
+      "answer": 0,
+      "explanation": "Người bán hoàn tất thông báo chuyển giao và miễn trừ trách nhiệm trong 5 ngày.",
+      "page": "79",
+      "tags": [
+        "5 ngày"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "5 ngày",
+      "chapterTitle": "Yêu cầu đăng ký phương tiện"
+    },
+    {
+      "id": "q11_003",
+      "chapter": 11,
+      "prompt": "Sau khi trở thành cư dân California hoặc nhận việc tại California, có bao lâu để đăng ký xe ngoài tiểu bang?",
+      "choices": [
+        "20 ngày",
+        "10 ngày",
+        "60 ngày"
+      ],
+      "answer": 0,
+      "explanation": "Mốc đăng ký là 20 ngày.",
+      "page": "79",
+      "tags": [
+        "20 ngày"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "20 ngày",
+      "chapterTitle": "Yêu cầu đăng ký phương tiện"
+    },
+    {
+      "id": "q11_004",
+      "chapter": 11,
+      "prompt": "Xe đăng ký tại California có phải đáp ứng tiêu chuẩn khí thải của tiểu bang không?",
+      "choices": [
+        "Có, khi áp dụng",
+        "Không, xe ngoài tiểu bang luôn được miễn",
+        "Chỉ xe điện phải kiểm tra khí thải"
+      ],
+      "answer": 0,
+      "explanation": "DMV không thể hoàn tất đăng ký nếu xe không đáp ứng yêu cầu.",
+      "page": "79",
+      "tags": [
+        "khí thải"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Có, khi áp dụng",
+      "chapterTitle": "Yêu cầu đăng ký phương tiện"
+    },
+    {
+      "id": "q11_005",
+      "chapter": 11,
+      "prompt": "Ba mốc thời gian mua, bán và xe ngoài tiểu bang lần lượt là gì?",
+      "choices": [
+        "10 ngày, 5 ngày, 20 ngày",
+        "5 ngày, 10 ngày, 30 ngày",
+        "20 ngày, 20 ngày, 20 ngày"
+      ],
+      "answer": 0,
+      "explanation": "Nhớ: người mua 10, người bán 5, xe từ ngoài tiểu bang 20.",
+      "page": "79",
+      "tags": [
+        "mốc thời gian"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "10 ngày, 5 ngày, 20 ngày",
+      "chapterTitle": "Yêu cầu đăng ký phương tiện"
+    },
+    {
+      "id": "q12_001",
+      "chapter": 12,
+      "prompt": "Tuổi cao tự nó có phải là căn cứ để DMV tái kiểm tra không?",
+      "choices": [
+        "Không",
+        "Có, mọi người trên 65 đều tự động tái kiểm tra",
+        "Có, mọi người trên 70 đều bị đình chỉ"
+      ],
+      "answer": 0,
+      "explanation": "Khả năng thể chất, tinh thần và hồ sơ lái xe mới là căn cứ liên quan.",
+      "page": "80",
+      "tags": [
+        "tái kiểm tra"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Không",
+      "chapterTitle": "An toàn người lái, tái kiểm tra và hạn chế"
+    },
+    {
+      "id": "q12_002",
+      "chapter": 12,
+      "prompt": "Ai có thể gửi yêu cầu DMV tái kiểm tra một người lái?",
+      "choices": [
+        "Chỉ công ty bảo hiểm",
+        "Bất kỳ người lạ ẩn danh nào đều tự động đình chỉ",
+        "Bác sĩ, cơ quan thực thi pháp luật hoặc thành viên gia đình"
+      ],
+      "answer": 2,
+      "explanation": "Mẫu DS 699 có thể được các nguồn nêu trong sổ tay sử dụng.",
+      "page": "80",
+      "tags": [
+        "DS 699"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Bác sĩ, cơ quan thực thi pháp luật hoặc thành viên gia đình",
+      "chapterTitle": "An toàn người lái, tái kiểm tra và hạn chế"
+    },
+    {
+      "id": "q12_003",
+      "chapter": 12,
+      "prompt": "Tình trạng nào có thể ảnh hưởng nghiêm trọng đến lái xe an toàn?",
+      "choices": [
+        "Rối loạn co giật hoặc sa sút trí tuệ",
+        "Thuận tay trái",
+        "Cận thị đã được chỉnh bằng kính phù hợp trong mọi trường hợp"
+      ],
+      "answer": 0,
+      "explanation": "Các rối loạn nhận thức hoặc thần kinh có thể làm mất khả năng lái an toàn.",
+      "page": "80",
+      "tags": [
+        "nhận thức"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Rối loạn co giật hoặc sa sút trí tuệ",
+      "chapterTitle": "An toàn người lái, tái kiểm tra và hạn chế"
+    },
+    {
+      "id": "q12_004",
+      "chapter": 12,
+      "prompt": "Sau khi nhận Thông báo Tái kiểm tra Ưu tiên, phải liên hệ DMV trong bao lâu?",
+      "choices": [
+        "30 ngày",
+        "5 ngày lịch",
+        "5 ngày làm việc"
+      ],
+      "answer": 2,
+      "explanation": "Mốc là năm ngày làm việc.",
+      "page": "81",
+      "tags": [
+        "5 ngày"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "5 ngày làm việc",
+      "chapterTitle": "An toàn người lái, tái kiểm tra và hạn chế"
+    },
+    {
+      "id": "q12_005",
+      "chapter": 12,
+      "prompt": "Điều gì có thể xảy ra nếu không liên hệ DMV đúng hạn sau thông báo ưu tiên?",
+      "choices": [
+        "Tự động được gia hạn",
+        "Chỉ nhận thư nhắc, không có hậu quả",
+        "Quyền lái có thể bị đình chỉ"
+      ],
+      "answer": 2,
+      "explanation": "Không tuân thủ có thể dẫn đến đình chỉ.",
+      "page": "81",
+      "tags": [
+        "tái kiểm tra"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Quyền lái có thể bị đình chỉ",
+      "chapterTitle": "An toàn người lái, tái kiểm tra và hạn chế"
+    },
+    {
+      "id": "q12_006",
+      "chapter": 12,
+      "prompt": "Hạn chế trên giấy phép phải dựa trên điều gì?",
+      "choices": [
+        "Khả năng cụ thể và nhu cầu an toàn của người lái",
+        "Loại xe người lái sở hữu",
+        "Tuổi tác đơn thuần"
+      ],
+      "answer": 0,
+      "explanation": "Hạn chế phải hợp lý và cần thiết.",
+      "page": "81",
+      "tags": [
+        "hạn chế"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Khả năng cụ thể và nhu cầu an toàn của người lái",
+      "chapterTitle": "An toàn người lái, tái kiểm tra và hạn chế"
+    },
+    {
+      "id": "q12_007",
+      "chapter": 12,
+      "prompt": "Có hạn chế tự động nào chỉ dành riêng cho mọi người cao niên không?",
+      "choices": [
+        "Có, chỉ được lái ban ngày",
+        "Không",
+        "Có, không được lên xa lộ"
+      ],
+      "answer": 1,
+      "explanation": "Sổ tay nói không có hạn chế cụ thể áp dụng chỉ vì là người cao niên.",
+      "page": "81",
+      "tags": [
+        "cao niên"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Không",
+      "chapterTitle": "An toàn người lái, tái kiểm tra và hạn chế"
+    },
+    {
+      "id": "q13_001",
+      "chapter": 13,
+      "prompt": "Người từ 70 tuổi trở lên khi bằng hết hạn phải gia hạn bằng cách nào?",
+      "choices": [
+        "Không cần gia hạn",
+        "Trực tiếp và vượt qua kiểm tra thị lực",
+        "Luôn hoàn toàn qua bưu điện"
+      ],
+      "answer": 1,
+      "explanation": "Có thể có yêu cầu kiểm tra khác tùy trường hợp.",
+      "page": "82",
+      "tags": [
+        "70 tuổi"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Trực tiếp và vượt qua kiểm tra thị lực",
+      "chapterTitle": "Người cao niên và lái xe"
+    },
+    {
+      "id": "q13_002",
+      "chapter": 13,
+      "prompt": "Người từ 70 tuổi trở lên có luôn phải thi kiến thức mỗi lần gia hạn không?",
+      "choices": [
+        "Không cần bất kỳ kiểm tra nào, kể cả thị lực",
+        "Có; mọi người đều phải thi viết tại văn phòng",
+        "Không; phải kiểm tra thông báo gia hạn và có thể dùng eLearning nếu được yêu cầu"
+      ],
+      "answer": 2,
+      "explanation": "Gia hạn vẫn phải hoàn tất trực tiếp và qua kiểm tra thị lực, nhưng bài thi kiến thức không tự động áp dụng cho mọi người.",
+      "page": "DMV web 2026",
+      "tags": [
+        "70 tuổi",
+        "eLearning"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "dmv_web",
+      "correctChoice": "Không; phải kiểm tra thông báo gia hạn và có thể dùng eLearning nếu được yêu cầu",
+      "chapterTitle": "Người cao niên và lái xe"
+    },
+    {
+      "id": "q13_003",
+      "chapter": 13,
+      "prompt": "Liên lạc viên cộng đồng DMV có thể đại diện cho bạn trong phiên điều trần không?",
+      "choices": [
+        "Không",
+        "Chỉ khi bạn trên 70 tuổi",
+        "Có, như một luật sư miễn phí"
+      ],
+      "answer": 0,
+      "explanation": "Họ cung cấp thông tin và công cụ nhưng không đại diện.",
+      "page": "82",
+      "tags": [
+        "liên lạc viên"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Không",
+      "chapterTitle": "Người cao niên và lái xe"
+    },
+    {
+      "id": "q13_004",
+      "chapter": 13,
+      "prompt": "Khóa học lái xe cho người lớn tuổi kéo dài bao lâu?",
+      "choices": [
+        "8 giờ",
+        "4 giờ",
+        "16 giờ"
+      ],
+      "answer": 0,
+      "explanation": "Khóa ban đầu là 8 giờ.",
+      "page": "83",
+      "tags": [
+        "8 giờ"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "8 giờ",
+      "chapterTitle": "Người cao niên và lái xe"
+    },
+    {
+      "id": "q13_005",
+      "chapter": 13,
+      "prompt": "Khóa học người lớn tuổi dành cho người từ bao nhiêu tuổi?",
+      "choices": [
+        "62 tuổi trở lên",
+        "70 tuổi trở lên",
+        "55 tuổi trở lên"
+      ],
+      "answer": 2,
+      "explanation": "Mốc tham gia là 55 tuổi.",
+      "page": "83",
+      "tags": [
+        "55 tuổi"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "55 tuổi trở lên",
+      "chapterTitle": "Người cao niên và lái xe"
+    },
+    {
+      "id": "q13_006",
+      "chapter": 13,
+      "prompt": "Chứng chỉ khóa học người lớn tuổi có giá trị bao lâu?",
+      "choices": [
+        "1 năm",
+        "5 năm",
+        "3 năm"
+      ],
+      "answer": 2,
+      "explanation": "Sau đó có thể gia hạn bằng khóa 4 giờ.",
+      "page": "83",
+      "tags": [
+        "3 năm"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "3 năm",
+      "chapterTitle": "Người cao niên và lái xe"
+    },
+    {
+      "id": "q13_007",
+      "chapter": 13,
+      "prompt": "Khóa gia hạn chương trình người lớn tuổi dài bao lâu?",
+      "choices": [
+        "2 giờ",
+        "8 giờ",
+        "4 giờ"
+      ],
+      "answer": 2,
+      "explanation": "Khóa gia hạn ngắn hơn khóa ban đầu.",
+      "page": "83",
+      "tags": [
+        "4 giờ"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "4 giờ",
+      "chapterTitle": "Người cao niên và lái xe"
+    },
+    {
+      "id": "q13_008",
+      "chapter": 13,
+      "prompt": "Tuổi tối thiểu để đủ điều kiện nhận thẻ ID người cao niên miễn phí là bao nhiêu?",
+      "choices": [
+        "55 tuổi",
+        "62 tuổi",
+        "70 tuổi"
+      ],
+      "answer": 1,
+      "explanation": "Người từ 62 tuổi trở lên đủ điều kiện.",
+      "page": "83",
+      "tags": [
+        "62 tuổi"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "62 tuổi",
+      "chapterTitle": "Người cao niên và lái xe"
+    },
+    {
+      "id": "q14_001",
+      "chapter": 14,
+      "prompt": "BAC là viết tắt của khái niệm nào?",
+      "choices": [
+        "Chứng nhận bảo hiểm xe",
+        "Khoảng cách phanh cơ bản",
+        "Nồng độ cồn trong máu"
+      ],
+      "answer": 2,
+      "explanation": "BAC đo lượng cồn trong máu.",
+      "page": "84",
+      "tags": [
+        "BAC"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Nồng độ cồn trong máu",
+      "chapterTitle": "Thuật ngữ"
+    },
+    {
+      "id": "q14_002",
+      "chapter": 14,
+      "prompt": "DPE là gì?",
+      "choices": [
+        "Giấy phép đỗ xe dành cho người khuyết tật",
+        "Báo cáo va chạm điện tử",
+        "Đánh giá hiệu suất lái xe trong bài thi thực hành"
+      ],
+      "answer": 2,
+      "explanation": "Giám khảo DMV đánh giá kỹ năng lái trong DPE.",
+      "page": "84",
+      "tags": [
+        "DPE"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Đánh giá hiệu suất lái xe trong bài thi thực hành",
+      "chapterTitle": "Thuật ngữ"
+    },
+    {
+      "id": "q14_003",
+      "chapter": 14,
+      "prompt": "Người dùng xe lăn có được xem là người đi bộ theo định nghĩa sổ tay không?",
+      "choices": [
+        "Không",
+        "Chỉ khi có người đẩy",
+        "Có"
+      ],
+      "answer": 2,
+      "explanation": "Định nghĩa người đi bộ bao gồm một số người dùng thiết bị di chuyển vì khuyết tật.",
+      "page": "85",
+      "tags": [
+        "người đi bộ"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Có",
+      "chapterTitle": "Thuật ngữ"
+    },
+    {
+      "id": "q14_004",
+      "chapter": 14,
+      "prompt": "Quy tắc ba giây dùng để làm gì?",
+      "choices": [
+        "Xác định thời gian đèn vàng",
+        "Đếm thời gian dừng ở mọi biển STOP",
+        "Ước tính khoảng cách theo sau an toàn"
+      ],
+      "answer": 2,
+      "explanation": "Chọn một điểm cố định và đếm từ khi xe trước đi qua.",
+      "page": "85",
+      "tags": [
+        "3 giây"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Ước tính khoảng cách theo sau an toàn",
+      "chapterTitle": "Thuật ngữ"
+    },
+    {
+      "id": "q14_005",
+      "chapter": 14,
+      "prompt": "Nhường đường có nghĩa gì?",
+      "choices": [
+        "Tăng tốc để nhập trước",
+        "Chờ, giảm tốc và sẵn sàng dừng để người khác đi trước",
+        "Luôn dừng đúng ba giây"
+      ],
+      "answer": 1,
+      "explanation": "Nhường không nhất thiết luôn dừng, nhưng phải sẵn sàng dừng.",
+      "page": "86",
+      "tags": [
+        "nhường đường"
+      ],
+      "difficulty": 1,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Chờ, giảm tốc và sẵn sàng dừng để người khác đi trước",
+      "chapterTitle": "Thuật ngữ"
+    },
+    {
+      "id": "q14_006",
+      "chapter": 14,
+      "prompt": "VRU là nhóm nào?",
+      "choices": [
+        "Chỉ xe tải lớn",
+        "Xe có quyền ưu tiên tuyệt đối",
+        "Người tham gia giao thông dễ bị tổn thương như người đi bộ và xe đạp"
+      ],
+      "answer": 2,
+      "explanation": "VRU không được bảo vệ bởi thân xe như người trong ô tô.",
+      "page": "85",
+      "tags": [
+        "VRU"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "handbook",
+      "correctChoice": "Người tham gia giao thông dễ bị tổn thương như người đi bộ và xe đạp",
+      "chapterTitle": "Thuật ngữ"
+    },
+    {
+      "id": "q15_001",
+      "chapter": 15,
+      "prompt": "Luật Slow Down, Move Over có hiệu lực năm 2026 được mở rộng đến đối tượng nào?",
+      "choices": [
+        "Chỉ xe kéo",
+        "Bất kỳ xe đứng yên nào có đèn nguy hiểm hoặc thiết bị cảnh báo, ngoài các xe đã được bảo vệ trước đó",
+        "Chỉ xe cảnh sát"
+      ],
+      "answer": 1,
+      "explanation": "Khi an toàn, giảm tốc và chuyển làn để tạo khoảng trống.",
+      "page": "DMV 2026",
+      "tags": [
+        "move over"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "dmv_web",
+      "correctChoice": "Bất kỳ xe đứng yên nào có đèn nguy hiểm hoặc thiết bị cảnh báo, ngoài các xe đã được bảo vệ trước đó",
+      "chapterTitle": "Cập nhật luật năm 2026"
+    },
+    {
+      "id": "q15_002",
+      "chapter": 15,
+      "prompt": "Mức 20 mph cho khu trường học theo AB 382 bắt đầu khi nào?",
+      "choices": [
+        "Ngày 1 tháng 1 năm 2026",
+        "Ngày 1 tháng 1 năm 2031",
+        "Đã áp dụng từ năm 2025"
+      ],
+      "answer": 1,
+      "explanation": "Không học nhầm rằng mức 20 mph đã áp dụng toàn tiểu bang trong năm 2026.",
+      "page": "DMV 2026",
+      "tags": [
+        "school zone"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "dmv_web",
+      "correctChoice": "Ngày 1 tháng 1 năm 2031",
+      "chapterTitle": "Cập nhật luật năm 2026"
+    },
+    {
+      "id": "q15_003",
+      "chapter": 15,
+      "prompt": "Sau khi đổi địa chỉ, nghĩa vụ báo DMV trong 10 ngày có còn không?",
+      "choices": [
+        "Không, luật 2026 đã bỏ",
+        "Chỉ còn đối với người dưới 18 tuổi",
+        "Có"
+      ],
+      "answer": 2,
+      "explanation": "Luật cho phép một số yêu cầu thẻ trùng không xóa nghĩa vụ báo đổi địa chỉ.",
+      "page": "DMV 2026",
+      "tags": [
+        "địa chỉ"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "dmv_web",
+      "correctChoice": "Có",
+      "chapterTitle": "Cập nhật luật năm 2026"
+    },
+    {
+      "id": "q15_004",
+      "chapter": 15,
+      "prompt": "Thiết bị làm che hoặc cản đọc biển số có được khuyến khích theo luật 2026 không?",
+      "choices": [
+        "Có, để bảo vệ riêng tư",
+        "Chỉ bị cấm trên xe thương mại",
+        "Không, luật tăng xử lý đối với việc sản xuất thiết bị như vậy"
+      ],
+      "answer": 2,
+      "explanation": "Biển số phải rõ và có thể đọc được.",
+      "page": "DMV 2026",
+      "tags": [
+        "biển số"
+      ],
+      "difficulty": 2,
+      "image": null,
+      "sourceType": "dmv_web",
+      "correctChoice": "Không, luật tăng xử lý đối với việc sản xuất thiết bị như vậy",
+      "chapterTitle": "Cập nhật luật năm 2026"
+    }
+  ]
+}

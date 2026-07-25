@@ -1,0 +1,95 @@
+BÁO CÁO KIỂM SOÁT CHẤT LƯỢNG
+
+Dự án: Ôn thi DMV California bằng tiếng Việt
+Ngày đối chiếu nội dung: 2026-07-22
+Trạng thái tổng thể: PASS
+
+1. PHẠM VI DỮ LIỆU
+
+• 15 phần học.
+• 252 thẻ kiến thức trọng tâm.
+• 261 câu hỏi biên soạn mới.
+• 86 trang nội dung nguồn được nhúng để tra cứu.
+• 13 hình cục bộ được dùng trong phần học và câu hỏi.
+• Bản PDF tiếng Việt gốc được đóng gói trong thư mục assets.
+
+2. KIỂM TRA NGÂN HÀNG CÂU HỎI
+
+Kết quả: PASS
+
+Mọi câu hỏi đều đáp ứng các điều kiện sau:
+
+• Có đúng ba lựa chọn không trùng nhau.
+• Có đúng một chỉ số đáp án hợp lệ.
+• Có lời giải thích.
+• Có nguồn hoặc số trang để đối chiếu.
+• Có liên kết tới một phần học hợp lệ.
+• Mọi đường dẫn hình được tham chiếu đều tồn tại.
+
+Hai cảnh báo trong qa-data-validation.json là các lời dẫn nhận diện biển báo được lặp lại có chủ ý. Mỗi câu dùng một hình biển báo khác nhau nên không phải câu trùng.
+
+3. KIỂM TRA NỘI DUNG RỦI RO CAO
+
+• Khoảng cách theo sau xe mô tô được dùng là ít nhất 3 giây, theo bản tiếng Anh chính thức và quy tắc ba giây của DMV. Bản PDF tiếng Việt có một chỗ ghi 4 giây nên website đánh dấu hiệu chỉnh rõ ràng.
+
+• Quy tắc ghế trẻ em được đối chiếu với California Vehicle Code §27360, §27363 và hướng dẫn của California Highway Patrol. Trẻ dưới 8 tuổi thường phải dùng hệ thống bảo vệ trẻ em ở ghế sau. Trẻ dưới 8 tuổi nhưng cao ít nhất 4 feet 9 inch có thể dùng dây an toàn vừa đúng.
+
+• Chi tiết thông báo gia hạn cho người từ 70 tuổi có sự khác nhau giữa các trang DMV hiện hành, một trang ghi khoảng 60 ngày và một trang ghi khoảng 90 ngày. Chi tiết này không được dùng làm câu tính điểm.
+
+• Tốc độ khu trường học hiện hành và mốc luật 20 mph có hiệu lực năm 2031 được tách riêng để tránh áp dụng sớm.
+
+• Ngoại lệ tại giao lộ khuất và đường sắt có cổng, tín hiệu hoặc người điều khiển được ghi rõ trong câu hỏi và lời giải.
+
+• Các thay đổi luật California năm 2026 được tách thành Phần 15 và gắn nguồn DMV riêng.
+
+4. KIỂM TRA TRÌNH DUYỆT
+
+Kết quả: PASS
+
+Các luồng đã được kiểm tra:
+
+• Trang tổng quan hiển thị đúng số lượng facts và câu hỏi.
+• Mở Phần 7 và chuyển giữa Facts trọng tâm, Toàn văn theo trang, Câu hỏi và Hình.
+• Tìm kiếm toàn bộ dữ liệu.
+• Bắt đầu một phiên luyện tập, chọn một trong ba đáp án, xem phản hồi và chấm Quên, Khó, Đúng hoặc Dễ.
+• Mở cấu hình thi, chọn độ dài và bộ đề, làm câu hỏi, đánh dấu câu, nộp bài và xem kết quả.
+• Mục Nguồn và hiệu chỉnh hiển thị ba hiệu chỉnh quan trọng.
+• Liên kết tới bản PDF đóng gói hoạt động đúng về mặt đường dẫn.
+• Bố cục di động không có tràn ngang ở chiều rộng 390 px.
+• Không ghi nhận lỗi JavaScript khi chạy thử.
+• Không ghi nhận lỗi trong console khi chạy thử.
+
+Môi trường kiểm tra có chính sách Chrome chặn mọi URL cục bộ. Vì vậy, mã HTML, CSS, dữ liệu và JavaScript chính xác của website được nạp vào một trang kiểm thử trống qua Chrome DevTools Protocol. Các thao tác giao diện vẫn được thực hiện trong trình duyệt thật. Kết quả chi tiết nằm trong qa-browser-smoke.json.
+
+5. KIỂM TRA FILE VÀ CẤU TRÚC
+
+Kết quả: PASS
+
+Các file cốt lõi đều tồn tại:
+
+• index.html
+• styles.css
+• app.js
+• data.js
+• README.txt
+• ATTRIBUTION.txt
+• facts-by-chapter.md
+• question-bank.json
+• qa-data-validation.json
+• qa-browser-smoke.json
+• assets/so-tay-dmv-california-tieng-viet-2025.pdf
+
+6. GIỚI HẠN VÀ CÁCH DÙNG AN TOÀN
+
+Website là công cụ học độc lập, không phải sản phẩm chính thức của DMV. Các câu hỏi đều được viết mới từ nguồn công khai, không phải câu hỏi rò rỉ hay bản sao đề thi thật. DMV có thể thay đổi luật, quy trình hoặc cấu trúc bài thi sau ngày đối chiếu nêu trên.
+
+Để giảm nguy cơ học thuộc đáp án mà không hiểu luật, mỗi câu có lời giải và nguồn. Khi gặp một câu khó hoặc có vẻ mâu thuẫn, nên mở trang nguồn ngay trong phần học để kiểm tra ngữ cảnh.
+
+7. FILE KẾT QUẢ MÁY
+
+• qa-data-validation.json: kiểm tra cấu trúc dữ liệu và tài nguyên.
+• qa-browser-smoke.json: kiểm tra các luồng giao diện và JavaScript.
+
+KẾT LUẬN
+
+Bộ website đã qua kiểm tra cấu trúc, nội dung rủi ro cao, tài nguyên và các luồng sử dụng chính. Không phát hiện lỗi chặn việc học hoặc thi mô phỏng tại thời điểm đóng gói.

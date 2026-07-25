@@ -1,0 +1,26 @@
+NGUỒN VÀ GHI CÔNG
+
+1. Sổ tay Lái xe California, tiếng Việt, bản 6/2025
+   https://www.dmv.ca.gov/portal/file/california-driver-handbook-vietnamese-pdf/
+2. California Driver’s Handbook, bản tiếng Anh chính thức
+   https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/
+3. DMV Highlights New Laws in 2026
+   https://www.dmv.ca.gov/portal/news-and-media/dmv-highlights-new-laws-in-2026/
+4. Prepare for Knowledge and Drive Tests
+   https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/preparing-for-knowledge-and-drive-tests/
+5. Learner’s Permits
+   https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/learners-permits/
+6. Driver’s License Renewal for 70+
+   https://www.dmv.ca.gov/portal/senior-drivers/
+7. California Vehicle Code §27360, Child Passenger Restraint
+   https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=27360.
+8. California Vehicle Code §27363, Child Passenger Restraint Exceptions
+   https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=27363.
+9. California Highway Patrol, Child Safety Seats
+   https://www.chp.ca.gov/programs-services/programs/child-safety-seats
+
+Hình biển báo và hình minh họa trong thư mục assets được cắt từ sổ tay DMV nêu trên.
+
+Theo thông báo trong sổ tay, nội dung và hình của California DMV được cấp phép CC BY NC 4.0 cho mục đích phi thương mại. Website học này là sản phẩm độc lập, không thuộc hoặc được DMV chứng thực.
+
+Câu hỏi trong ngân hàng được biên soạn mới. Không có câu hỏi rò rỉ, câu hỏi đánh cắp hoặc bản sao đề thi thật.
